@@ -1,0 +1,1000 @@
+id_pedido,id_cliente,fecha,hora,cliente,id_seccion,id_producto,producto,cantidad,precio,ventas,region,compra
+130,16288,01/01/2023,15,Walmart,24,19057,Manzana Fuji Extra Grande Organica,80,7.28,582.4,Nuevo Leon,Online
+110,73241,01/01/2023,15,Walmart,24,5876,Limon Organico,140,5.04,705.6,Otros,Otros
+130,16288,01/01/2023,15,Walmart,24,24852,Banana,140,7.35,1029,Otros,Otros
+110,73241,01/01/2023,15,Walmart,24,24852,Banana,180,9.45,1701,Nuevo Leon,Online
+215,100052,02/01/2023,11,Chedrahui,53,49235,Crema Organica,60,3.45,207,Jalisco,Supermercado
+211,183969,03/01/2023,14,Walmart,24,16797,Fresas,160,18.45,2952,Cd. Mexico,Abarrotes
+75,106387,06/01/2023,19,Walmart,123,21616,Rada­cula Baby Organica,40,3.1,124,Cd. Mexico,Abarrotes
+75,106387,06/01/2023,19,Walmart,123,39275,Arandanos Organicos,120,16.5,1980,Jalisco,Supermercado
+232,56896,07/01/2023,14,Chedrahui,53,27086,Crema,80,4.08,326.4,Jalisco,Supermercado
+20,182912,07/01/2023,17,Walmart,24,24852,Banana,80,4.2,336,Guerrero,Abastos
+232,56896,07/01/2023,14,Walmart,83,22935,Cebolla Amarilla Organica,100,4.4,440,Guerrero,Abastos
+57,34016,07/01/2023,8,Walmart,24,21137,Fresas Organicas,60,7.47,448.2,Cd. Mexico,Abarrotes
+57,34016,07/01/2023,8,Walmart,24,19057,Manzana Fuji Extra Grande Organica,80,7.28,582.4,Yucatan,Hipermercado
+57,34016,07/01/2023,8,Walmart,123,21903,Espinacas Baby Organicas,100,7.45,745,Jalisco,Supermercado
+232,56896,07/01/2023,14,Walmart,83,17794,Zanahorias,140,6.65,931,Yucatan,Hipermercado
+232,56896,07/01/2023,14,Walmart,24,21137,Fresas Organicas,100,12.45,1245,Cd. Mexico,Abarrotes
+57,34016,07/01/2023,8,Walmart,24,47209,Aguacate Hass Organico,140,12.53,1754.2,Guerrero,Abastos
+232,56896,07/01/2023,14,Walmart,24,13176,Bolsa de Bananas Organicas,120,14.7,1764,Nuevo Leon,Online
+26,153404,08/01/2023,16,Walmart,24,24852,Banana,40,2.1,84,Yucatan,Hipermercado
+26,153404,08/01/2023,16,Walmart,123,21903,Espinacas Baby Organicas,80,5.96,476.8,Guerrero,Abastos
+26,153404,08/01/2023,16,Walmart,24,47766,Aguacate Organico,80,7,560,Otros,Otros
+61,12295,09/01/2023,9,Walmart,123,42265,Zanahorias Baby Organicas,100,6.25,625,Nuevo Leon,Online
+236,97664,15/01/2023,12,Soriana,115,44632,Agua con Gas de Pomelo,40,1.9,76,Yucatan,Hipermercado
+53,87889,19/01/2023,20,Walmart,24,47209,Aguacate Hass Organico,40,3.58,143.2,Guerrero,Abastos
+18,118860,19/01/2023,20,Soriana,115,44632,Agua con Gas de Pomelo,60,2.85,171,Otros,Otros
+129,169467,19/01/2023,18,Walmart,83,41950,Racimo de Tomates Organicos,40,4.5,180,Yucatan,Hipermercado
+53,87889,19/01/2023,20,Walmart,24,47626,Limon Grande,100,3.1,310,Cd. Mexico,Abarrotes
+53,87889,19/01/2023,20,Walmart,24,24852,Banana,80,4.2,336,Cd. Mexico,Abarrotes
+18,118860,19/01/2023,20,Walmart,123,27966,Frambuesas Organicas,60,8.55,513,Nuevo Leon,Online
+18,118860,19/01/2023,20,Walmart,83,46979,Esparragos,80,7.8,624,Jalisco,Supermercado
+53,87889,19/01/2023,20,Walmart,24,5876,Limon Organico,140,5.04,705.6,Nuevo Leon,Online
+129,169467,19/01/2023,18,Chedrahui,84,27845,Leche Entera Organica,120,5.94,712.8,Guerrero,Abastos
+18,118860,19/01/2023,20,Walmart,24,47766,Aguacate Organico,100,8.75,875,Cd. Mexico,Abarrotes
+129,169467,19/01/2023,18,Walmart,24,13176,Bolsa de Bananas Organicas,100,12.25,1225,Cd. Mexico,Abarrotes
+53,87889,19/01/2023,20,Walmart,123,40706,Tomates Cherry Organicos,100,12.75,1275,Otros,Otros
+53,87889,19/01/2023,20,Walmart,123,39275,Arandanos Organicos,100,13.75,1375,Jalisco,Supermercado
+53,87889,19/01/2023,20,Walmart,24,37646,Manzanas Gala Organicas,160,15.84,2534.4,Yucatan,Hipermercado
+88,102020,22/01/2023,11,Walmart,24,47626,Limon Grande,80,2.48,198.4,Jalisco,Supermercado
+88,102020,22/01/2023,11,Walmart,123,21616,Roda-cula Baby Organica,80,6.2,496,Nuevo Leon,Online
+88,102020,22/01/2023,11,Walmart,24,24852,Banana,120,6.3,756,Cd. Mexico,Abarrotes
+169,22517,22/01/2023,9,Walmart,24,45066,Manzana Honeycrisp,100,7.75,775,Otros,Otros
+88,102020,22/01/2023,11,Walmart,24,21137,Fresas Organicas,80,9.96,796.8,Yucatan,Hipermercado
+88,102020,22/01/2023,11,Walmart,83,49683,Pepino Kirby,140,6.93,970.2,Otros,Otros
+88,102020,22/01/2023,11,Walmart,24,47766,Aguacate Organico,120,10.5,1260,Guerrero,Abastos
+169,22517,22/01/2023,9,Walmart,123,21903,Espinacas Baby Organicas,140,10.43,1460.2,Guerrero,Abastos
+165,162754,24/01/2023,11,Walmart,24,47626,Limon Grande,60,1.86,111.6,Yucatan,Hipermercado
+178,971,25/01/2023,11,Chedrahui,53,49235,Crema Organica,100,5.75,575,Cd. Mexico,Abarrotes
+67,5738,25/01/2023,12,Walmart,24,13176,Bolsa de Bananas Organicas,100,12.25,1225,Yucatan,Hipermercado
+10,135442,28/01/2023,8,Walmart,83,4605,Cebollas Amarillas,80,3.4,272,Nuevo Leon,Online
+10,135442,28/01/2023,8,Walmart,16,31717,Cilantro Organico,100,3.45,345,Guerrero,Abastos
+10,135442,28/01/2023,8,Walmart,24,24852,Banana,100,5.25,525,Yucatan,Hipermercado
+10,135442,28/01/2023,8,Walmart,24,47766,Aguacate Organico,80,7,560,Otros,Otros
+10,135442,28/01/2023,8,Walmart,24,21137,Fresas Organicas,80,9.96,796.8,Jalisco,Supermercado
+10,135442,28/01/2023,8,Chedrahui,53,49235,Crema Organica,140,8.05,1127,Cd. Mexico,Abarrotes
+214,503,29/01/2023,16,Walmart,24,24852,Banana,100,5.25,525,Nuevo Leon,Online
+201,185440,29/01/2023,15,Walmart,83,4605,Cebollas Amarillas,120,5.1,612,Jalisco,Supermercado
+62,189943,29/01/2023,11,Walmart,24,26209,Limones,140,4.76,666.4,Jalisco,Supermercado
+62,189943,29/01/2023,11,Walmart,24,47766,Aguacate Organico,120,10.5,1260,Cd. Mexico,Abarrotes
+32,119216,30/01/2023,19,Walmart,24,13176,Bolsa de Bananas Organicas,40,4.9,196,Nuevo Leon,Online
+32,119216,30/01/2023,19,Walmart,83,49683,Pepino Kirby,100,4.95,495,Jalisco,Supermercado
+32,119216,30/01/2023,19,Walmart,123,4920,Uvas Rojas sin Semillas,160,19.6,3136,Cd. Mexico,Abarrotes
+231,147443,31/01/2023,18,Chedrahui,84,27845,Leche Entera Organica,100,4.95,495,Otros,Otros
+126,66138,01/02/2023,15,Walmart,24,47209,Aguacate Hass Organico,100,8.95,895,Guerrero,Abastos
+1,112108,02/02/2023,10,Walmart,24,47209,Aguacate Hass Organico,40,3.58,143.2,Cd. Mexico,Abarrotes
+1,112108,02/02/2023,10,Walmart,83,49683,Pepino Kirby,80,3.96,316.8,Nuevo Leon,Online
+1,112108,02/02/2023,10,Walmart,24,13176,Bolsa de Bananas Organicas,80,9.8,784,Jalisco,Supermercado
+2,202279,03/02/2023,9,Walmart,83,28985,Col Rizada Organica de Michigan,40,5.1,204,Yucatan,Hipermercado
+2,202279,03/02/2023,9,Walmart,83,17794,Zanahorias,100,4.75,475,Guerrero,Abastos
+54,91977,04/02/2023,15,Walmart,24,24852,Banana,80,4.2,336,Yucatan,Hipermercado
+113,128979,04/02/2023,12,Walmart,123,21903,Espinacas Baby Organicas,80,5.96,476.8,Nuevo Leon,Online
+42,89125,05/02/2023,20,Walmart,24,13176,Bolsa de Bananas Organicas,80,9.8,784,Yucatan,Hipermercado
+58,150647,08/02/2023,8,Walmart,24,13176,Bolsa de Bananas Organicas,100,12.25,1225,Otros,Otros
+58,150647,08/02/2023,8,Walmart,123,42265,Zanahorias Baby Organicas,140,8.75,1225,Nuevo Leon,Online
+47,191597,10/02/2023,0,Walmart,123,39275,Arandanos Organicos,60,8.25,495,Otros,Otros
+47,191597,10/02/2023,0,Walmart,24,16797,Fresas,160,16.4,2624,Guerrero,Abastos
+160,181765,16/02/2023,23,Walmart,24,21137,Fresas Organicas,100,12.45,1245,Cd. Mexico,Abarrotes
+78,96511,16/02/2023,15,Walmart,24,16797,Fresas,120,12.3,1476,Jalisco,Supermercado
+223,169586,19/02/2023,9,Walmart,83,4605,Cebollas Amarillas,20,0.85,17,Guerrero,Abastos
+223,169586,19/02/2023,9,Walmart,24,24852,Banana,100,5.25,525,Yucatan,Hipermercado
+193,133810,19/02/2023,11,Walmart,24,13176,Bolsa de Bananas Organicas,100,12.25,1225,Otros,Otros
+92,56022,25/02/2023,9,Chedrahui,53,49235,Crema Organica,40,2.3,92,Nuevo Leon,Online
+92,56022,25/02/2023,9,Walmart,123,21903,Espinacas Baby Organicas,60,4.47,268.2,Yucatan,Hipermercado
+31,201744,25/02/2023,15,Walmart,16,31717,Cilantro Organico,100,3.45,345,Guerrero,Abastos
+31,201744,25/02/2023,15,Walmart,123,4920,Uvas Rojas sin Semillas,60,7.35,441,Otros,Otros
+31,201744,25/02/2023,15,Walmart,83,22935,Cebolla Amarilla Organica,120,5.28,633.6,Cd. Mexico,Abarrotes
+92,56022,25/02/2023,9,Walmart,24,21137,Fresas Organicas,80,9.96,796.8,Guerrero,Abastos
+144,179300,25/02/2023,15,Walmart,83,17794,Zanahorias,140,6.65,931,Otros,Otros
+92,56022,25/02/2023,9,Walmart,24,24852,Banana,160,8.4,1344,Otros,Otros
+31,201744,25/02/2023,15,Walmart,123,21903,Espinacas Baby Organicas,140,10.43,1460.2,Yucatan,Hipermercado
+122,127081,28/02/2023,1,Walmart,83,17794,Zanahorias,40,1.9,76,Yucatan,Hipermercado
+190,189157,02/03/2023,13,Walmart,24,16797,Fresas,60,6.15,369,Yucatan,Hipermercado
+190,189157,02/03/2023,13,Walmart,123,21903,Espinacas Baby Organicas,160,11.92,1907.2,Cd. Mexico,Abarrotes
+127,43629,04/03/2023,11,Walmart,24,16797,Fresas,140,14.35,2009,Otros,Otros
+176,4209,06/03/2023,17,Walmart,24,5876,Limon Organico,120,4.32,518.4,Yucatan,Hipermercado
+176,4209,06/03/2023,17,Walmart,83,8518,Cebolla Roja Organica,120,5.52,662.4,Otros,Otros
+176,4209,06/03/2023,17,Walmart,83,22935,Cebolla Amarilla Organica,140,6.16,862.4,Guerrero,Abastos
+139,146988,11/03/2023,18,Walmart,123,21903,Espinacas Baby Organicas,120,8.94,1072.8,Otros,Otros
+139,146988,11/03/2023,18,Walmart,83,22935,Cebolla Amarilla Organica,180,7.92,1425.6,Guerrero,Abastos
+228,156462,12/03/2023,16,Walmart,83,30391,Pepino Organico,60,3.06,183.6,Nuevo Leon,Online
+179,84068,12/03/2023,18,Walmart,123,21616,Roda-cula Baby Organica,80,6.2,496,Yucatan,Hipermercado
+228,156462,12/03/2023,16,Walmart,24,47209,Aguacate Hass Organico,80,7.16,572.8,Cd. Mexico,Abarrotes
+228,156462,12/03/2023,16,Walmart,83,24964,Ajo Organico,120,5.88,705.6,Jalisco,Supermercado
+228,156462,12/03/2023,16,Walmart,123,27966,Frambuesas Organicas,80,11.4,912,Guerrero,Abastos
+228,156462,12/03/2023,16,Walmart,24,13176,Bolsa de Bananas Organicas,140,17.15,2401,Yucatan,Hipermercado
+69,115481,15/03/2023,12,Chedrahui,84,27845,Leche Entera Organica,20,0.99,19.8,Guerrero,Abastos
+199,143951,17/03/2023,10,Walmart,24,13176,Bolsa de Bananas Organicas,100,12.25,1225,Nuevo Leon,Online
+196,177113,19/03/2023,16,Walmart,24,21137,Fresas Organicas,40,4.98,199.2,Yucatan,Hipermercado
+56,41591,19/03/2023,12,Walmart,83,24964,Ajo Organico,100,4.9,490,Guerrero,Abastos
+56,41591,19/03/2023,12,Walmart,24,47209,Aguacate Hass Organico,80,7.16,572.8,Otros,Otros
+56,41591,19/03/2023,12,Walmart,123,21903,Espinacas Baby Organicas,100,7.45,745,Nuevo Leon,Online
+39,184886,21/03/2023,18,Walmart,24,28204,Manzana Fuji Organica,40,2.9,116,Jalisco,Supermercado
+39,184886,21/03/2023,18,Walmart,83,4605,Cebollas Amarillas,80,3.4,272,Nuevo Leon,Online
+39,184886,21/03/2023,18,Walmart,123,21903,Espinacas Baby Organicas,120,8.94,1072.8,Cd. Mexico,Abarrotes
+136,184355,25/03/2023,10,Walmart,24,47766,Aguacate Organico,40,3.5,140,Cd. Mexico,Abarrotes
+60,66984,26/03/2023,10,Walmart,83,22935,Cebolla Amarilla Organica,80,3.52,281.6,Guerrero,Abastos
+60,66984,26/03/2023,10,Walmart,83,17794,Zanahorias,80,3.8,304,Otros,Otros
+60,66984,26/03/2023,10,Walmart,24,37646,Manzanas Gala Organicas,100,9.9,990,Cd. Mexico,Abarrotes
+60,66984,26/03/2023,10,Walmart,123,27966,Frambuesas Organicas,100,14.25,1425,Yucatan,Hipermercado
+60,66984,26/03/2023,10,Walmart,24,13176,Bolsa de Bananas Organicas,160,19.6,3136,Jalisco,Supermercado
+112,125030,27/03/2023,14,Walmart,24,5876,Limon Organico,80,2.88,230.4,Otros,Otros
+112,125030,27/03/2023,14,Walmart,83,27104,Coliflor Fresca,80,5.92,473.6,Yucatan,Hipermercado
+112,125030,27/03/2023,14,Walmart,24,47209,Aguacate Hass Organico,120,10.74,1288.8,Guerrero,Abastos
+184,18409,31/03/2023,19,Walmart,24,24852,Banana,80,4.2,336,Yucatan,Hipermercado
+184,18409,31/03/2023,19,Walmart,24,16797,Fresas,60,6.15,369,Guerrero,Abastos
+226,51011,02/04/2023,12,Walmart,123,39275,Arandanos Organicos,20,2.75,55,Guerrero,Abastos
+226,51011,02/04/2023,12,Walmart,24,24852,Banana,100,5.25,525,Yucatan,Hipermercado
+224,109534,02/04/2023,14,Chedrahui,53,49235,Crema Organica,100,5.75,575,Otros,Otros
+135,55179,04/04/2023,12,Walmart,123,21903,Espinacas Baby Organicas,60,4.47,268.2,Jalisco,Supermercado
+158,24721,07/04/2023,15,Walmart,83,49683,Pepino Kirby,60,2.97,178.2,Yucatan,Hipermercado
+158,24721,07/04/2023,15,Walmart,24,47209,Aguacate Hass Organico,100,8.95,895,Otros,Otros
+158,24721,07/04/2023,15,Walmart,24,24852,Banana,140,7.35,1029,Guerrero,Abastos
+219,185730,07/04/2023,13,Walmart,24,13176,Bolsa de Bananas Organicas,100,12.25,1225,Yucatan,Hipermercado
+158,24721,07/04/2023,15,Walmart,123,27966,Frambuesas Organicas,100,14.25,1425,Cd. Mexico,Abarrotes
+219,185730,07/04/2023,13,Walmart,123,21903,Espinacas Baby Organicas,160,11.92,1907.2,Guerrero,Abastos
+83,41155,12/04/2023,20,Walmart,24,13176,Bolsa de Bananas Organicas,80,9.8,784,Cd. Mexico,Abarrotes
+83,41155,12/04/2023,20,Walmart,83,4605,Cebollas Amarillas,160,6.8,1088,Yucatan,Hipermercado
+143,130982,16/04/2023,16,Walmart,24,24852,Banana,60,3.15,189,Jalisco,Supermercado
+143,130982,16/04/2023,16,Walmart,83,8518,Cebolla Roja Organica,100,4.6,460,Yucatan,Hipermercado
+143,130982,16/04/2023,16,Walmart,83,4605,Cebollas Amarillas,120,5.1,612,Cd. Mexico,Abarrotes
+143,130982,16/04/2023,16,Walmart,24,47626,Limon Grande,160,4.96,793.6,Nuevo Leon,Online
+143,130982,16/04/2023,16,Walmart,24,45066,Manzana Honeycrisp,120,9.3,1116,Guerrero,Abastos
+72,199522,19/04/2023,19,Walmart,24,24852,Banana,60,3.15,189,Otros,Otros
+208,68303,19/04/2023,13,Walmart,24,24852,Banana,60,3.15,189,Yucatan,Hipermercado
+208,68303,19/04/2023,13,Walmart,24,45066,Manzana Honeycrisp,100,7.75,775,Guerrero,Abastos
+72,199522,19/04/2023,19,Walmart,24,28204,Manzana Fuji Organica,160,11.6,1856,Guerrero,Abastos
+152,103040,24/04/2023,10,Walmart,24,13176,Bolsa de Bananas Organicas,60,7.35,441,Otros,Otros
+227,100142,24/04/2023,21,Walmart,24,45066,Manzana Honeycrisp,80,6.2,496,Otros,Otros
+177,48308,25/04/2023,16,Walmart,123,21903,Espinacas Baby Organicas,80,5.96,476.8,Nuevo Leon,Online
+177,48308,25/04/2023,16,Walmart,24,24852,Banana,140,7.35,1029,Jalisco,Supermercado
+38,42756,29/04/2023,16,Walmart,123,21616,Roda-cula Baby Organica,100,7.75,775,Otros,Otros
+111,102275,29/04/2023,17,Walmart,83,49683,Pepino Kirby,140,6.93,970.2,Cd. Mexico,Abarrotes
+111,102275,29/04/2023,17,Walmart,24,16797,Fresas,140,14.35,2009,Jalisco,Supermercado
+162,198222,03/05/2023,9,Walmart,83,27104,Coliflor Fresca,60,4.44,266.4,Guerrero,Abastos
+170,182389,03/05/2023,13,Walmart,83,17794,Zanahorias,100,4.75,475,Cd. Mexico,Abarrotes
+162,198222,03/05/2023,9,Walmart,83,45007,Calabacin Organico,140,8.54,1195.6,Otros,Otros
+170,182389,03/05/2023,13,Walmart,24,13176,Bolsa de Bananas Organicas,140,17.15,2401,Nuevo Leon,Online
+87,155476,03/05/2023,15,Walmart,24,16797,Fresas,160,16.4,2624,Otros,Otros
+162,198222,03/05/2023,9,Walmart,24,47766,Aguacate Organico,180,15.75,2835,Yucatan,Hipermercado
+170,182389,03/05/2023,13,Walmart,24,21137,Fresas Organicas,160,19.92,3187.2,Jalisco,Supermercado
+55,127522,06/05/2023,14,Walmart,83,30391,Pepino Organico,40,2.04,81.6,Jalisco,Supermercado
+55,127522,06/05/2023,14,Walmart,24,5876,Limon Organico,60,2.16,129.6,Guerrero,Abastos
+55,127522,06/05/2023,14,Walmart,83,8518,Cebolla Roja Organica,100,4.6,460,Cd. Mexico,Abarrotes
+55,127522,06/05/2023,14,Walmart,83,41950,Racimo de Tomates Organicos,100,11.25,1125,Yucatan,Hipermercado
+55,127522,06/05/2023,14,Walmart,24,13176,Bolsa de Bananas Organicas,100,12.25,1225,Nuevo Leon,Online
+55,127522,06/05/2023,14,Walmart,123,27966,Frambuesas Organicas,120,17.1,2052,Otros,Otros
+71,69984,08/05/2023,13,Walmart,16,31717,Cilantro Organico,20,0.69,13.8,Jalisco,Supermercado
+71,69984,08/05/2023,13,Soriana,115,44632,Agua con Gas de Pomelo,100,4.75,475,Yucatan,Hipermercado
+71,69984,08/05/2023,13,Walmart,24,26209,Limones,120,4.08,489.6,Cd. Mexico,Abarrotes
+71,69984,08/05/2023,13,Walmart,24,47209,Aguacate Hass Organico,100,8.95,895,Otros,Otros
+71,69984,08/05/2023,13,Walmart,24,5876,Limon Organico,160,5.76,921.6,Nuevo Leon,Online
+52,27498,10/05/2023,10,Walmart,24,24852,Banana,20,1.05,21,Nuevo Leon,Online
+28,98256,10/05/2023,13,Walmart,24,47626,Limon Grande,60,1.86,111.6,Otros,Otros
+52,27498,10/05/2023,10,Walmart,83,49683,Pepino Kirby,100,4.95,495,Jalisco,Supermercado
+19,83009,10/05/2023,17,Walmart,123,42265,Zanahorias Baby Organicas,100,6.25,625,Yucatan,Hipermercado
+28,98256,10/05/2023,13,Walmart,24,47209,Aguacate Hass Organico,160,14.32,2291.2,Nuevo Leon,Online
+81,186444,11/05/2023,14,Walmart,24,47209,Aguacate Hass Organico,100,8.95,895,Guerrero,Abastos
+81,186444,11/05/2023,14,Walmart,24,21137,Fresas Organicas,160,19.92,3187.2,Otros,Otros
+225,130657,13/05/2023,9,Walmart,24,24852,Banana,60,3.15,189,Nuevo Leon,Online
+96,17227,13/05/2023,20,Walmart,123,27966,Frambuesas Organicas,60,8.55,513,Jalisco,Supermercado
+180,96385,13/05/2023,19,Walmart,24,5876,Limon Organico,120,4.32,518.4,Otros,Otros
+180,96385,13/05/2023,19,Walmart,16,31717,Cilantro Organico,140,4.83,676.2,Guerrero,Abastos
+180,96385,13/05/2023,19,Walmart,24,13176,Bolsa de Bananas Organicas,80,9.8,784,Nuevo Leon,Online
+225,130657,13/05/2023,9,Walmart,24,37646,Manzanas Gala Organicas,100,9.9,990,Jalisco,Supermercado
+96,17227,13/05/2023,20,Walmart,83,30391,Pepino Organico,140,7.14,999.6,Otros,Otros
+225,130657,13/05/2023,9,Walmart,24,8277,Manzana Honeycrisp Organica,120,10.68,1281.6,Cd. Mexico,Abarrotes
+180,96385,13/05/2023,19,Walmart,24,47209,Aguacate Hass Organico,120,10.74,1288.8,Jalisco,Supermercado
+96,17227,13/05/2023,20,Walmart,123,40706,Tomates Cherry Organicos,140,17.85,2499,Nuevo Leon,Online
+96,17227,13/05/2023,20,Walmart,123,39275,Arandanos Organicos,140,19.25,2695,Cd. Mexico,Abarrotes
+213,33094,17/05/2023,18,Walmart,24,24852,Banana,80,4.2,336,Otros,Otros
+213,33094,17/05/2023,18,Walmart,123,21903,Espinacas Baby Organicas,180,13.41,2413.8,Guerrero,Abastos
+102,4988,23/05/2023,16,Walmart,123,27966,Frambuesas Organicas,20,2.85,57,Otros,Otros
+102,4988,23/05/2023,16,Walmart,83,27104,Coliflor Fresca,100,7.4,740,Nuevo Leon,Online
+116,119087,25/05/2023,18,Walmart,83,27104,Coliflor Fresca,80,5.92,473.6,Jalisco,Supermercado
+123,99471,26/05/2023,12,Soriana,115,44632,Agua con Gas de Pomelo,100,4.75,475,Guerrero,Abastos
+123,99471,26/05/2023,12,Walmart,24,37646,Manzanas Gala Organicas,100,9.9,990,Otros,Otros
+29,81606,26/05/2023,12,Walmart,24,13176,Bolsa de Bananas Organicas,120,14.7,1764,Jalisco,Supermercado
+95,187742,09/06/2023,7,Walmart,83,49683,Pepino Kirby,60,2.97,178.2,Guerrero,Abastos
+95,187742,09/06/2023,7,Walmart,24,47766,Aguacate Organico,140,12.25,1715,Yucatan,Hipermercado
+95,187742,09/06/2023,7,Walmart,24,21137,Fresas Organicas,120,14.94,1792.8,Cd. Mexico,Abarrotes
+120,23750,11/06/2023,8,Walmart,24,28204,Manzana Fuji Organica,100,7.25,725,Cd. Mexico,Abarrotes
+3,205970,12/06/2023,17,Walmart,123,21903,Espinacas Baby Organicas,80,5.96,476.8,Otros,Otros
+212,83727,12/06/2023,6,Walmart,24,21137,Fresas Organicas,120,14.94,1792.8,Yucatan,Hipermercado
+80,190599,14/06/2023,13,Chedrahui,84,27845,Leche Entera Organica,100,4.95,495,Cd. Mexico,Abarrotes
+80,190599,14/06/2023,13,Walmart,24,24852,Banana,120,6.3,756,Yucatan,Hipermercado
+187,26978,23/06/2023,16,Walmart,24,16797,Fresas,40,4.1,164,Jalisco,Supermercado
+187,26978,23/06/2023,16,Walmart,24,24852,Banana,140,7.35,1029,Nuevo Leon,Online
+73,152590,25/06/2023,12,Walmart,123,21903,Espinacas Baby Organicas,100,7.45,745,Nuevo Leon,Online
+181,141062,25/06/2023,16,Walmart,24,24852,Banana,160,8.4,1344,Cd. Mexico,Abarrotes
+198,21336,28/06/2023,9,Walmart,24,24852,Banana,180,9.45,1701,Otros,Otros
+101,18783,09/07/2023,15,Walmart,123,21616,Roda-cula Baby Organica,80,6.2,496,Yucatan,Hipermercado
+101,18783,09/07/2023,15,Walmart,24,47626,Limon Grande,140,4.34,607.6,Guerrero,Abastos
+125,66104,12/07/2023,12,Walmart,24,13176,Bolsa de Bananas Organicas,60,7.35,441,Jalisco,Supermercado
+125,66104,12/07/2023,12,Chedrahui,53,49235,Crema Organica,100,5.75,575,Cd. Mexico,Abarrotes
+125,66104,12/07/2023,12,Otros,67,30489,Hummus Original,80,10.2,816,Nuevo Leon,Online
+125,66104,12/07/2023,12,Walmart,83,44359,Apio Organico en Ramillete PequeÃ±o,120,11.1,1332,Yucatan,Hipermercado
+174,53965,16/07/2023,9,Walmart,24,24852,Banana,60,3.15,189,Yucatan,Hipermercado
+174,53965,16/07/2023,9,Walmart,24,28204,Manzana Fuji Organica,60,4.35,261,Guerrero,Abastos
+174,53965,16/07/2023,9,Walmart,83,24964,Ajo Organico,100,4.9,490,Otros,Otros
+174,53965,16/07/2023,9,Walmart,83,27104,Coliflor Fresca,140,10.36,1450.4,Nuevo Leon,Online
+147,181484,27/07/2023,12,Walmart,83,4605,Cebollas Amarillas,40,1.7,68,Jalisco,Supermercado
+159,16286,27/07/2023,13,Walmart,123,21616,Roda-cula Baby Organica,60,4.65,279,Nuevo Leon,Online
+147,181484,27/07/2023,12,Walmart,83,17794,Zanahorias,100,4.75,475,Cd. Mexico,Abarrotes
+159,16286,27/07/2023,13,Walmart,83,30391,Pepino Organico,100,5.1,510,Jalisco,Supermercado
+107,141357,02/08/2023,20,Walmart,83,30391,Pepino Organico,140,7.14,999.6,Guerrero,Abastos
+90,43798,05/08/2023,16,Walmart,123,42265,Zanahorias Baby Organicas,100,6.25,625,Cd. Mexico,Abarrotes
+138,197422,06/08/2023,16,Walmart,83,22935,Cebolla Amarilla Organica,100,4.4,440,Yucatan,Hipermercado
+164,184017,07/08/2023,10,Walmart,24,47626,Limon Grande,80,2.48,198.4,Jalisco,Supermercado
+164,184017,07/08/2023,10,Walmart,83,28985,Col Rizada Organica de Michigan,140,17.85,2499,Cd. Mexico,Abarrotes
+77,91667,10/08/2023,11,Walmart,24,47626,Limon Grande,60,1.86,111.6,Guerrero,Abastos
+77,91667,10/08/2023,11,Walmart,83,30391,Pepino Organico,60,3.06,183.6,Nuevo Leon,Online
+77,91667,10/08/2023,11,Walmart,83,22935,Cebolla Amarilla Organica,100,4.4,440,Otros,Otros
+77,91667,10/08/2023,11,Walmart,24,8277,Manzana Honeycrisp Organica,80,7.12,569.6,Yucatan,Hipermercado
+222,145501,14/08/2023,11,Walmart,24,28204,Manzana Fuji Organica,80,5.8,464,Cd. Mexico,Abarrotes
+222,145501,14/08/2023,11,Walmart,24,24852,Banana,120,6.3,756,Otros,Otros
+222,145501,14/08/2023,11,Walmart,24,47626,Limon Grande,180,5.58,1004.4,Nuevo Leon,Online
+222,145501,14/08/2023,11,Walmart,123,21903,Espinacas Baby Organicas,120,8.94,1072.8,Jalisco,Supermercado
+210,43756,15/08/2023,22,Walmart,83,27104,Coliflor Fresca,100,7.4,740,Jalisco,Supermercado
+210,43756,15/08/2023,22,Walmart,24,45066,Manzana Honeycrisp,100,7.75,775,Nuevo Leon,Online
+210,43756,15/08/2023,22,Walmart,24,47626,Limon Grande,160,4.96,793.6,Otros,Otros
+206,72973,20/08/2023,9,Walmart,24,47626,Limon Grande,20,0.62,12.4,Cd. Mexico,Abarrotes
+82,83499,21/08/2023,13,Walmart,24,16797,Fresas,100,10.25,1025,Nuevo Leon,Online
+93,130239,21/08/2023,10,Walmart,24,13176,Bolsa de Bananas Organicas,100,12.25,1225,Jalisco,Supermercado
+82,83499,21/08/2023,13,Walmart,24,37646,Manzanas Gala Organicas,120,11.88,1425.6,Jalisco,Supermercado
+27,129389,24/08/2023,20,Walmart,83,17794,Zanahorias,140,6.65,931,Cd. Mexico,Abarrotes
+27,129389,24/08/2023,20,Walmart,24,13176,Bolsa de Bananas Organicas,100,12.25,1225,Nuevo Leon,Online
+27,129389,24/08/2023,20,Walmart,24,47766,Aguacate Organico,140,12.25,1715,Jalisco,Supermercado
+27,129389,24/08/2023,20,Walmart,83,28985,Col Rizada Organica de Michigan,140,17.85,2499,Yucatan,Hipermercado
+27,129389,24/08/2023,20,Walmart,83,41950,Racimo de Tomates Organicos,160,18,2880,Guerrero,Abastos
+185,172793,30/08/2023,1,Walmart,83,24964,Ajo Organico,80,3.92,313.6,Otros,Otros
+163,115844,01/09/2023,14,Walmart,24,13176,Bolsa de Bananas Organicas,20,2.45,49,Cd. Mexico,Abarrotes
+163,115844,01/09/2023,14,Walmart,24,26209,Limones,40,1.36,54.4,Guerrero,Abastos
+216,102339,01/09/2023,15,Walmart,24,21137,Fresas Organicas,60,7.47,448.2,Cd. Mexico,Abarrotes
+163,115844,01/09/2023,14,Otros,67,30489,Hummus Original,60,7.65,459,Nuevo Leon,Online
+163,115844,01/09/2023,14,Walmart,123,27966,Frambuesas Organicas,80,11.4,912,Yucatan,Hipermercado
+163,115844,01/09/2023,14,Walmart,123,21616,Roda-cula Baby Organica,120,9.3,1116,Nuevo Leon,Online
+163,115844,01/09/2023,14,Walmart,83,30391,Pepino Organico,160,8.16,1305.6,Jalisco,Supermercado
+163,115844,01/09/2023,14,Walmart,123,4920,Uvas Rojas sin Semillas,120,14.7,1764,Otros,Otros
+157,13055,02/09/2023,17,Walmart,123,39275,Arandanos Organicos,80,11,880,Jalisco,Supermercado
+235,58701,05/09/2023,9,Soriana,115,44632,Agua con Gas de Pomelo,100,4.75,475,Cd. Mexico,Abarrotes
+235,58701,05/09/2023,9,Walmart,24,13176,Bolsa de Bananas Organicas,120,14.7,1764,Jalisco,Supermercado
+192,189954,15/09/2023,14,Walmart,24,5876,Limon Organico,100,3.6,360,Guerrero,Abastos
+175,10358,28/09/2023,18,Walmart,24,24852,Banana,100,5.25,525,Jalisco,Supermercado
+175,10358,28/09/2023,18,Walmart,123,27966,Frambuesas Organicas,100,14.25,1425,Cd. Mexico,Abarrotes
+23,68572,30/09/2023,18,Walmart,83,8518,Cebolla Roja Organica,80,3.68,294.4,Cd. Mexico,Abarrotes
+23,68572,30/09/2023,18,Walmart,24,47766,Aguacate Organico,140,12.25,1715,Jalisco,Supermercado
+148,41523,03/10/2023,17,Walmart,123,21903,Espinacas Baby Organicas,120,8.94,1072.8,Yucatan,Hipermercado
+148,41523,03/10/2023,17,Walmart,24,47209,Aguacate Hass Organico,120,10.74,1288.8,Guerrero,Abastos
+22,30822,06/10/2023,8,Walmart,24,24852,Banana,140,7.35,1029,Otros,Otros
+22,30822,06/10/2023,8,Walmart,83,46979,Esparragos,120,11.7,1404,Nuevo Leon,Online
+146,21343,13/10/2023,16,Walmart,24,16797,Fresas,120,12.3,1476,Nuevo Leon,Online
+85,4041,16/10/2023,11,Walmart,24,16797,Fresas,120,12.3,1476,Guerrero,Abastos
+5,156122,21/10/2023,16,Walmart,24,47209,Aguacate Hass Organico,60,5.37,322.2,Cd. Mexico,Abarrotes
+5,156122,21/10/2023,16,Walmart,24,13176,Bolsa de Bananas Organicas,100,12.25,1225,Nuevo Leon,Online
+5,156122,21/10/2023,16,Walmart,123,27966,Frambuesas Organicas,140,19.95,2793,Jalisco,Supermercado
+234,96828,23/10/2023,12,Walmart,83,24964,Ajo Organico,60,2.94,176.4,Otros,Otros
+128,7440,23/10/2023,14,Walmart,123,42265,Zanahorias Baby Organicas,60,3.75,225,Jalisco,Supermercado
+234,96828,23/10/2023,12,Walmart,123,39275,Arandanos Organicos,80,11,880,Nuevo Leon,Online
+128,7440,23/10/2023,14,Walmart,24,13176,Bolsa de Bananas Organicas,120,14.7,1764,Nuevo Leon,Online
+89,105579,26/10/2023,15,Walmart,24,5876,Limon Organico,80,2.88,230.4,Jalisco,Supermercado
+89,105579,26/10/2023,15,Walmart,83,17794,Zanahorias,160,7.6,1216,Nuevo Leon,Online
+105,178958,08/11/2023,10,Walmart,24,28204,Manzana Fuji Organica,40,2.9,116,Yucatan,Hipermercado
+105,178958,08/11/2023,10,Walmart,24,13176,Bolsa de Bananas Organicas,100,12.25,1225,Jalisco,Supermercado
+105,178958,08/11/2023,10,Walmart,123,4920,Uvas Rojas sin Semillas,120,14.7,1764,Cd. Mexico,Abarrotes
+195,14264,12/11/2023,16,Walmart,83,49683,Pepino Kirby,40,1.98,79.2,Cd. Mexico,Abarrotes
+195,14264,12/11/2023,16,Walmart,24,13176,Bolsa de Bananas Organicas,80,9.8,784,Nuevo Leon,Online
+195,14264,12/11/2023,16,Walmart,24,16797,Fresas,120,12.3,1476,Jalisco,Supermercado
+197,92707,17/11/2023,20,Walmart,24,21137,Fresas Organicas,140,17.43,2440.2,Guerrero,Abastos
+131,34858,29/11/2023,10,Walmart,16,31717,Cilantro Organico,40,1.38,55.2,Yucatan,Hipermercado
+131,34858,29/11/2023,10,Walmart,83,45007,Calabacin Organico,40,2.44,97.6,Guerrero,Abastos
+131,34858,29/11/2023,10,Walmart,24,5876,Limon Organico,60,2.16,129.6,Jalisco,Supermercado
+131,34858,29/11/2023,10,Walmart,83,22935,Cebolla Amarilla Organica,80,3.52,281.6,Otros,Otros
+131,34858,29/11/2023,10,Walmart,83,24964,Ajo Organico,100,4.9,490,Cd. Mexico,Abarrotes
+131,34858,29/11/2023,10,Walmart,123,40706,Tomates Cherry Organicos,140,17.85,2499,Nuevo Leon,Online
+154,73310,09/12/2023,19,Otros,67,30489,Hummus Original,120,15.3,1836,Nuevo Leon,Online
+14,18194,13/12/2023,15,Walmart,24,45066,Manzana Honeycrisp,100,7.75,775,Guerrero,Abastos
+14,18194,13/12/2023,15,Chedrahui,84,27845,Leche Entera Organica,140,6.93,970.2,Yucatan,Hipermercado
+36,79431,14/12/2023,18,Chedrahui,53,49235,Crema Organica,80,4.6,368,Yucatan,Hipermercado
+36,79431,14/12/2023,18,Walmart,83,46979,Esparragos,120,11.7,1404,Guerrero,Abastos
+421,119095,01/01/2024,23,Walmart,24,28204,Manzana Fuji Organica,20,1.45,29,Yucatan,Hipermercado
+297,29096,01/01/2024,11,Walmart,83,27104,Coliflor Fresca,60,4.44,266.4,Jalisco,Supermercado
+297,29096,01/01/2024,11,Walmart,83,4605,Cebollas Amarillas,120,5.1,612,Yucatan,Hipermercado
+297,29096,01/01/2024,11,Walmart,83,46979,Esparragos,100,9.75,975,Cd. Mexico,Abarrotes
+297,29096,01/01/2024,11,Walmart,24,47766,Aguacate Organico,120,10.5,1260,Guerrero,Abastos
+297,29096,01/01/2024,11,Chedrahui,84,27845,Leche Entera Organica,160,7.92,1267.2,Nuevo Leon,Online
+320,17669,02/01/2024,15,Walmart,123,39275,Arandanos Organicos,40,5.5,220,Yucatan,Hipermercado
+320,17669,02/01/2024,15,Walmart,24,16797,Fresas,80,8.2,656,Guerrero,Abastos
+361,58087,03/01/2024,0,Walmart,16,31717,Cilantro Organico,80,2.76,220.8,Yucatan,Hipermercado
+361,58087,03/01/2024,0,Walmart,24,24852,Banana,120,6.3,756,Guerrero,Abastos
+361,58087,03/01/2024,0,Walmart,24,21137,Fresas Organicas,80,9.96,796.8,Otros,Otros
+237,36603,03/01/2024,17,Walmart,24,47626,Limon Grande,180,5.58,1004.4,Nuevo Leon,Online
+331,97427,07/01/2024,17,Walmart,24,47626,Limon Grande,40,1.24,49.6,Otros,Otros
+331,97427,07/01/2024,17,Walmart,83,28985,Col Rizada Organica de Michigan,60,7.65,459,Yucatan,Hipermercado
+331,97427,07/01/2024,17,Soriana,115,44632,Agua con Gas de Pomelo,100,4.75,475,Cd. Mexico,Abarrotes
+331,97427,07/01/2024,17,Walmart,24,13176,Bolsa de Bananas Organicas,100,12.25,1225,Guerrero,Abastos
+322,36278,09/01/2024,9,Walmart,83,4605,Cebollas Amarillas,100,4.25,425,Otros,Otros
+277,109712,15/01/2024,1,Walmart,123,21903,Espinacas Baby Organicas,80,5.96,476.8,Otros,Otros
+277,109712,15/01/2024,1,Walmart,83,49683,Pepino Kirby,100,4.95,495,Jalisco,Supermercado
+236,97664,15/01/2024,12,Walmart,24,45066,Manzana Honeycrisp,120,9.3,1116,Otros,Otros
+236,97664,15/01/2024,12,Walmart,123,21616,Roda-cula Baby Organica,140,10.85,1519,Guerrero,Abastos
+277,109712,15/01/2024,1,Walmart,123,21616,Roda-cula Baby Organica,140,10.85,1519,Nuevo Leon,Online
+241,131535,17/01/2024,18,Walmart,24,47626,Limon Grande,80,2.48,198.4,Otros,Otros
+241,131535,17/01/2024,18,Walmart,83,46979,Esparragos,100,9.75,975,Nuevo Leon,Online
+251,155188,30/01/2024,11,Walmart,83,8518,Cebolla Roja Organica,40,1.84,73.6,Yucatan,Hipermercado
+391,116932,30/01/2024,17,Soriana,115,44632,Agua con Gas de Pomelo,60,2.85,171,Otros,Otros
+251,155188,30/01/2024,11,Walmart,16,31717,Cilantro Organico,80,2.76,220.8,Nuevo Leon,Online
+251,155188,30/01/2024,11,Walmart,24,5876,Limon Organico,100,3.6,360,Otros,Otros
+251,155188,30/01/2024,11,Walmart,24,13176,Bolsa de Bananas Organicas,60,7.35,441,Jalisco,Supermercado
+251,155188,30/01/2024,11,Walmart,83,30391,Pepino Organico,120,6.12,734.4,Nuevo Leon,Online
+251,155188,30/01/2024,11,Walmart,123,21903,Espinacas Baby Organicas,100,7.45,745,Otros,Otros
+251,155188,30/01/2024,11,Walmart,123,21616,Rada­cula Baby Organica,120,9.3,1116,Cd. Mexico,Abarrotes
+251,155188,30/01/2024,11,Walmart,83,22935,Cebolla Amarilla Organica,180,7.92,1425.6,Guerrero,Abastos
+286,91926,31/01/2024,12,Walmart,24,24852,Banana,80,4.2,336,Guerrero,Abastos
+286,91926,31/01/2024,12,Walmart,83,49683,Pepino Kirby,100,4.95,495,Nuevo Leon,Online
+286,91926,31/01/2024,12,Walmart,83,41950,Racimo de Tomates Organicos,160,18,2880,Otros,Otros
+395,186576,01/02/2024,16,Walmart,24,24852,Banana,100,5.25,525,Jalisco,Supermercado
+395,186576,01/02/2024,16,Walmart,123,21616,Roda-cula Baby Organica,100,7.75,775,Yucatan,Hipermercado
+395,186576,01/02/2024,16,Otros,67,30489,Hummus Original,120,15.3,1836,Cd. Mexico,Abarrotes
+367,48730,02/02/2024,19,Walmart,24,24852,Banana,40,2.1,84,Yucatan,Hipermercado
+291,66046,02/02/2024,22,Walmart,24,24852,Banana,80,4.2,336,Nuevo Leon,Online
+367,48730,02/02/2024,19,Walmart,24,47766,Aguacate Organico,80,7,560,Otros,Otros
+367,48730,02/02/2024,19,Walmart,24,26209,Limones,140,4.76,666.4,Guerrero,Abastos
+360,26871,02/02/2024,16,Otros,67,30489,Hummus Original,80,10.2,816,Cd. Mexico,Abarrotes
+367,48730,02/02/2024,19,Chedrahui,84,27845,Leche Entera Organica,140,6.93,970.2,Cd. Mexico,Abarrotes
+291,66046,02/02/2024,22,Walmart,123,27966,Frambuesas Organicas,100,14.25,1425,Jalisco,Supermercado
+367,48730,02/02/2024,19,Walmart,24,16797,Fresas,120,12.3,1476,Jalisco,Supermercado
+708,1873,02/02/2024,17,Walmart,24,16797,Fresas,120,12.3,1476,Nuevo Leon,Online
+367,48730,02/02/2024,19,Walmart,24,45066,Manzana Honeycrisp,140,10.85,1519,Nuevo Leon,Online
+266,99546,03/02/2024,7,Walmart,83,41950,Racimo de Tomates Organicos,120,13.5,1620,Yucatan,Hipermercado
+398,155472,04/02/2024,11,Walmart,24,24852,Banana,80,4.2,336,Cd. Mexico,Abarrotes
+398,155472,04/02/2024,11,Walmart,83,41950,Racimo de Tomates Organicos,60,6.75,405,Yucatan,Hipermercado
+398,155472,04/02/2024,11,Walmart,83,28985,Col Rizada Organica de Michigan,80,10.2,816,Nuevo Leon,Online
+398,155472,04/02/2024,11,Walmart,83,45007,Calabacin Organico,140,8.54,1195.6,Jalisco,Supermercado
+249,81951,06/02/2024,8,Walmart,123,21616,Roda-cula Baby Organica,180,13.95,2511,Guerrero,Abastos
+249,81951,06/02/2024,8,Walmart,83,41950,Racimo de Tomates Organicos,160,20.25,3240,Yucatan,Hipermercado
+252,78634,08/02/2024,18,Walmart,16,31717,Cilantro Organico,40,1.38,55.2,Jalisco,Supermercado
+319,102031,09/02/2024,21,Walmart,24,13176,Bolsa de Bananas Organicas,120,14.7,1764,Cd. Mexico,Abarrotes
+300,76870,11/02/2024,17,Walmart,123,21903,Espinacas Baby Organicas,60,4.47,268.2,Cd. Mexico,Abarrotes
+300,76870,11/02/2024,17,Walmart,24,47766,Aguacate Organico,120,10.5,1260,Jalisco,Supermercado
+352,158641,14/02/2024,18,Walmart,24,13176,Bolsa de Bananas Organicas,40,4.9,196,Cd. Mexico,Abarrotes
+382,73283,14/02/2024,9,Walmart,24,45066,Manzana Honeycrisp,60,4.65,279,Guerrero,Abastos
+299,10546,14/02/2024,10,Walmart,123,39275,Arandanos Organicos,60,8.25,495,Otros,Otros
+352,158641,14/02/2024,18,Walmart,83,4605,Cebollas Amarillas,120,5.1,612,Yucatan,Hipermercado
+352,158641,14/02/2024,18,Walmart,24,47209,Aguacate Hass Organico,120,10.74,1288.8,Jalisco,Supermercado
+299,10546,14/02/2024,10,Walmart,24,16797,Fresas,140,14.35,2009,Nuevo Leon,Online
+382,73283,14/02/2024,9,Walmart,24,21137,Fresas Organicas,140,17.43,2440.2,Yucatan,Hipermercado
+314,174117,17/02/2024,8,Chedrahui,53,27086,Crema,60,3.06,183.6,Otros,Otros
+329,193602,18/02/2024,15,Walmart,24,24852,Banana,120,6.3,756,Nuevo Leon,Online
+329,193602,18/02/2024,15,Walmart,24,47766,Aguacate Organico,120,10.5,1260,Jalisco,Supermercado
+308,176010,19/02/2024,17,Walmart,24,24852,Banana,80,4.2,336,Nuevo Leon,Online
+308,176010,19/02/2024,17,Walmart,24,45066,Manzana Honeycrisp,120,9.3,1116,Jalisco,Supermercado
+308,176010,19/02/2024,17,Walmart,83,8518,Cebolla Roja Organica,160,7.36,1177.6,Cd. Mexico,Abarrotes
+259,52205,20/02/2024,12,Soriana,115,44632,Agua con Gas de Pomelo,140,6.65,931,Nuevo Leon,Online
+346,161624,27/02/2024,18,Walmart,24,47209,Aguacate Hass Organico,100,8.95,895,Guerrero,Abastos
+317,179469,28/02/2024,18,Walmart,83,27104,Coliflor Fresca,60,4.44,266.4,Nuevo Leon,Online
+317,179469,28/02/2024,18,Walmart,24,47626,Limon Grande,100,3.1,310,Otros,Otros
+317,179469,28/02/2024,18,Walmart,83,45007,Calabacin Organico,100,6.1,610,Guerrero,Abastos
+278,182817,02/03/2024,14,Walmart,24,47626,Limon Grande,180,5.58,1004.4,Cd. Mexico,Abarrotes
+380,83896,04/03/2024,17,Walmart,24,21137,Fresas Organicas,60,7.47,448.2,Otros,Otros
+380,83896,04/03/2024,17,Walmart,123,21903,Espinacas Baby Organicas,80,5.96,476.8,Nuevo Leon,Online
+332,131796,04/03/2024,9,Walmart,24,24852,Banana,120,6.3,756,Nuevo Leon,Online
+380,83896,04/03/2024,17,Walmart,24,24852,Banana,180,9.45,1701,Jalisco,Supermercado
+413,200178,12/03/2024,16,Walmart,24,26209,Limones,120,4.08,489.6,Guerrero,Abastos
+413,200178,12/03/2024,16,Walmart,24,24852,Banana,100,5.25,525,Yucatan,Hipermercado
+413,200178,12/03/2024,16,Walmart,123,21903,Espinacas Baby Organicas,120,8.94,1072.8,Nuevo Leon,Online
+413,200178,12/03/2024,16,Walmart,83,46979,Esparragos,140,13.65,1911,Otros,Otros
+343,120226,14/03/2024,10,Chedrahui,84,27845,Leche Entera Organica,100,4.95,495,Yucatan,Hipermercado
+343,120226,14/03/2024,10,Walmart,24,24852,Banana,120,6.3,756,Cd. Mexico,Abarrotes
+406,51849,14/03/2024,9,Walmart,24,13176,Bolsa de Bananas Organicas,80,9.8,784,Otros,Otros
+305,150329,15/03/2024,15,Soriana,115,44632,Agua con Gas de Pomelo,120,5.7,684,Jalisco,Supermercado
+284,143768,16/03/2024,23,Walmart,83,24964,Ajo Organico,100,4.9,490,Cd. Mexico,Abarrotes
+284,143768,16/03/2024,23,Walmart,24,13176,Bolsa de Bananas Organicas,120,14.7,1764,Yucatan,Hipermercado
+404,196585,17/03/2024,8,Walmart,24,16797,Fresas,100,10.25,1025,Cd. Mexico,Abarrotes
+365,184277,21/03/2024,6,Walmart,123,42265,Zanahorias Baby Organicas,100,6.25,625,Guerrero,Abastos
+335,164484,22/03/2024,12,Walmart,83,45007,Calabacin Organico,80,4.88,390.4,Guerrero,Abastos
+335,164484,22/03/2024,12,Walmart,123,27966,Frambuesas Organicas,80,11.4,912,Cd. Mexico,Abarrotes
+335,164484,22/03/2024,12,Otros,67,30489,Hummus Original,100,12.75,1275,Nuevo Leon,Online
+335,164484,22/03/2024,12,Walmart,24,16797,Fresas,120,12.3,1476,Yucatan,Hipermercado
+335,164484,22/03/2024,12,Walmart,24,8277,Manzana Honeycrisp Organica,140,12.46,1744.4,Jalisco,Supermercado
+335,164484,22/03/2024,12,Walmart,24,47766,Aguacate Organico,160,14,2240,Otros,Otros
+289,5927,26/03/2024,8,Walmart,24,37646,Manzanas Gala Organicas,100,9.9,990,Otros,Otros
+371,27212,27/03/2024,13,Walmart,24,24852,Banana,40,2.1,84,Guerrero,Abastos
+371,27212,27/03/2024,13,Chedrahui,53,27086,Crema,80,4.08,326.4,Otros,Otros
+371,27212,27/03/2024,13,Walmart,123,21903,Espinacas Baby Organicas,80,5.96,476.8,Nuevo Leon,Online
+371,27212,27/03/2024,13,Walmart,83,46979,Esparragos,100,9.75,975,Jalisco,Supermercado
+260,21630,28/03/2024,10,Walmart,24,24852,Banana,80,4.2,336,Jalisco,Supermercado
+260,21630,28/03/2024,10,Walmart,83,49683,Pepino Kirby,100,4.95,495,Cd. Mexico,Abarrotes
+248,30576,29/03/2024,10,Walmart,24,19057,Manzana Fuji Extra Grande Organica,40,3.64,145.6,Cd. Mexico,Abarrotes
+248,30576,29/03/2024,10,Walmart,123,21903,Espinacas Baby Organicas,60,4.47,268.2,Nuevo Leon,Online
+248,30576,29/03/2024,10,Walmart,83,44359,Apio Organico en Ramillete PequeÃ±o,140,12.95,1813,Jalisco,Supermercado
+323,60766,30/03/2024,10,Walmart,24,24852,Banana,80,4.2,336,Jalisco,Supermercado
+323,60766,30/03/2024,10,Walmart,24,8277,Manzana Honeycrisp Organica,100,8.9,890,Cd. Mexico,Abarrotes
+323,60766,30/03/2024,10,Walmart,24,47209,Aguacate Hass Organico,160,14.32,2291.2,Nuevo Leon,Online
+340,197300,01/04/2024,9,Walmart,24,8277,Manzana Honeycrisp Organica,20,1.78,35.6,Guerrero,Abastos
+340,197300,01/04/2024,9,Chedrahui,84,27845,Leche Entera Organica,80,3.96,316.8,Otros,Otros
+340,197300,01/04/2024,9,Walmart,83,49683,Pepino Kirby,100,4.95,495,Jalisco,Supermercado
+340,197300,01/04/2024,9,Walmart,123,4920,Uvas Rojas sin Semillas,160,19.6,3136,Nuevo Leon,Online
+387,160646,03/04/2024,14,Walmart,24,16797,Fresas,80,8.2,656,Cd. Mexico,Abarrotes
+387,160646,03/04/2024,14,Walmart,123,39275,Arandanos Organicos,120,16.5,1980,Jalisco,Supermercado
+409,41502,05/04/2024,18,Walmart,24,24852,Banana,140,7.35,1029,Jalisco,Supermercado
+328,156112,10/04/2024,20,Chedrahui,84,27845,Leche Entera Organica,60,2.97,178.2,Otros,Otros
+328,156112,10/04/2024,20,Walmart,24,21137,Fresas Organicas,120,14.94,1792.8,Guerrero,Abastos
+388,176698,16/04/2024,13,Walmart,83,24964,Ajo Organico,80,3.92,313.6,Yucatan,Hipermercado
+388,176698,16/04/2024,13,Walmart,16,31717,Cilantro Organico,100,3.45,345,Guerrero,Abastos
+388,176698,16/04/2024,13,Walmart,83,45007,Calabacin Organico,80,4.88,390.4,Jalisco,Supermercado
+388,176698,16/04/2024,13,Walmart,24,26209,Limones,120,4.08,489.6,Nuevo Leon,Online
+388,176698,16/04/2024,13,Walmart,83,4605,Cebollas Amarillas,120,5.1,612,Otros,Otros
+381,52824,16/04/2024,14,Walmart,24,47209,Aguacate Hass Organico,100,8.95,895,Cd. Mexico,Abarrotes
+366,85359,23/04/2024,14,Walmart,24,47209,Aguacate Hass Organico,60,5.37,322.2,Otros,Otros
+366,85359,23/04/2024,14,Walmart,24,21137,Fresas Organicas,80,9.96,796.8,Nuevo Leon,Online
+366,85359,23/04/2024,14,Walmart,83,30391,Pepino Organico,140,7.14,999.6,Jalisco,Supermercado
+410,121327,25/04/2024,14,Walmart,83,17794,Zanahorias,100,4.75,475,Cd. Mexico,Abarrotes
+274,64392,25/04/2024,9,Walmart,24,24852,Banana,100,5.25,525,Jalisco,Supermercado
+274,64392,25/04/2024,9,Walmart,24,28204,Manzana Fuji Organica,120,8.7,1044,Cd. Mexico,Abarrotes
+242,167125,27/04/2024,13,Walmart,24,13176,Bolsa de Bananas Organicas,60,7.35,441,Cd. Mexico,Abarrotes
+355,28266,27/04/2024,13,Walmart,24,24852,Banana,100,5.25,525,Otros,Otros
+242,167125,27/04/2024,13,Walmart,24,16797,Fresas,120,12.3,1476,Jalisco,Supermercado
+355,28266,27/04/2024,13,Walmart,24,28204,Manzana Fuji Organica,160,11.6,1856,Nuevo Leon,Online
+279,185432,30/04/2024,12,Walmart,24,47626,Limon Grande,20,0.62,12.4,Otros,Otros
+279,185432,30/04/2024,12,Walmart,123,21903,Espinacas Baby Organicas,20,1.49,29.8,Guerrero,Abastos
+279,185432,30/04/2024,12,Walmart,83,17794,Zanahorias,120,5.7,684,Nuevo Leon,Online
+279,185432,30/04/2024,12,Walmart,24,24852,Banana,120,6.3,756,Yucatan,Hipermercado
+272,127211,07/05/2024,14,Walmart,123,4920,Uvas Rojas sin Semillas,160,22.05,3528,Nuevo Leon,Online
+403,16181,11/05/2024,12,Walmart,83,24964,Ajo Organico,20,0.98,19.6,Otros,Otros
+403,16181,11/05/2024,12,Walmart,123,21903,Espinacas Baby Organicas,80,5.96,476.8,Jalisco,Supermercado
+403,16181,11/05/2024,12,Walmart,24,24852,Banana,100,5.25,525,Yucatan,Hipermercado
+403,16181,11/05/2024,12,Walmart,83,45007,Calabacin Organico,120,7.32,878.4,Nuevo Leon,Online
+403,16181,11/05/2024,12,Walmart,24,47209,Aguacate Hass Organico,100,8.95,895,Guerrero,Abastos
+324,68950,13/05/2024,12,Walmart,24,16797,Fresas,120,12.3,1476,Yucatan,Hipermercado
+281,200563,16/05/2024,16,Walmart,24,26209,Limones,40,1.36,54.4,Cd. Mexico,Abarrotes
+281,200563,16/05/2024,16,Walmart,123,21903,Espinacas Baby Organicas,80,5.96,476.8,Nuevo Leon,Online
+281,200563,16/05/2024,16,Walmart,24,24852,Banana,100,5.25,525,Yucatan,Hipermercado
+281,200563,16/05/2024,16,Walmart,24,45066,Manzana Honeycrisp,100,7.75,775,Jalisco,Supermercado
+281,200563,16/05/2024,16,Walmart,24,47766,Aguacate Organico,100,8.75,875,Guerrero,Abastos
+281,200563,16/05/2024,16,Walmart,83,30391,Pepino Organico,160,8.16,1305.6,Otros,Otros
+267,25414,21/05/2024,9,Walmart,83,8518,Cebolla Roja Organica,140,6.44,901.6,Otros,Otros
+267,25414,21/05/2024,9,Walmart,24,21137,Fresas Organicas,100,12.45,1245,Guerrero,Abastos
+311,25023,24/05/2024,11,Walmart,123,42265,Zanahorias Baby Organicas,60,3.75,225,Guerrero,Abastos
+311,25023,24/05/2024,11,Walmart,24,13176,Bolsa de Bananas Organicas,140,17.15,2401,Yucatan,Hipermercado
+423,97970,25/05/2024,16,Walmart,24,24852,Banana,100,5.25,525,Otros,Otros
+422,146023,26/05/2024,15,Walmart,83,24964,Ajo Organico,60,2.94,176.4,Guerrero,Abastos
+318,108940,27/05/2024,22,Walmart,123,21616,Roda-cula Baby Organica,120,9.3,1116,Jalisco,Supermercado
+375,163102,01/06/2024,17,Walmart,83,8518,Cebolla Roja Organica,100,4.6,460,Cd. Mexico,Abarrotes
+292,29552,05/06/2024,16,Walmart,24,21137,Fresas Organicas,80,9.96,796.8,Cd. Mexico,Abarrotes
+292,29552,05/06/2024,16,Walmart,24,13176,Bolsa de Bananas Organicas,140,17.15,2401,Yucatan,Hipermercado
+292,29552,05/06/2024,16,Walmart,24,47209,Aguacate Hass Organico,180,16.11,2899.8,Guerrero,Abastos
+288,137357,06/06/2024,7,Walmart,83,17794,Zanahorias,60,2.85,171,Cd. Mexico,Abarrotes
+288,137357,06/06/2024,7,Walmart,83,49683,Pepino Kirby,120,5.94,712.8,Yucatan,Hipermercado
+288,137357,06/06/2024,7,Walmart,24,24852,Banana,180,9.45,1701,Jalisco,Supermercado
+288,137357,06/06/2024,7,Walmart,83,28985,Col Rizada Organica de Michigan,160,22.95,3672,Guerrero,Abastos
+384,110980,07/06/2024,11,Walmart,24,26209,Limones,140,4.76,666.4,Otros,Otros
+384,110980,07/06/2024,11,Walmart,24,13176,Bolsa de Bananas Organicas,80,9.8,784,Nuevo Leon,Online
+302,54878,12/06/2024,12,Chedrahui,53,49235,Crema Organica,100,5.75,575,Yucatan,Hipermercado
+302,54878,12/06/2024,12,Walmart,83,30391,Pepino Organico,180,9.18,1652.4,Guerrero,Abastos
+363,204484,14/06/2024,10,Walmart,24,13176,Bolsa de Bananas Organicas,40,4.9,196,Nuevo Leon,Online
+363,204484,14/06/2024,10,Walmart,24,5876,Limon Organico,80,2.88,230.4,Jalisco,Supermercado
+336,60174,15/06/2024,13,Walmart,83,17794,Zanahorias,100,4.75,475,Guerrero,Abastos
+336,60174,15/06/2024,13,Walmart,83,24964,Ajo Organico,100,4.9,490,Yucatan,Hipermercado
+336,60174,15/06/2024,13,Walmart,24,24852,Banana,140,7.35,1029,Cd. Mexico,Abarrotes
+336,60174,15/06/2024,13,Walmart,24,28204,Manzana Fuji Organica,120,8.7,1044,Jalisco,Supermercado
+296,92052,19/06/2024,17,Walmart,83,8518,Cebolla Roja Organica,60,2.76,165.6,Otros,Otros
+337,44598,19/06/2024,10,Walmart,123,21903,Espinacas Baby Organicas,60,4.47,268.2,Nuevo Leon,Online
+337,44598,19/06/2024,10,Walmart,24,8277,Manzana Honeycrisp Organica,60,5.34,320.4,Jalisco,Supermercado
+337,44598,19/06/2024,10,Walmart,24,24852,Banana,100,5.25,525,Cd. Mexico,Abarrotes
+337,44598,19/06/2024,10,Chedrahui,53,27086,Crema,120,6.12,734.4,Otros,Otros
+255,4076,25/06/2024,20,Walmart,24,24852,Banana,160,8.4,1344,Nuevo Leon,Online
+376,121858,27/06/2024,16,Walmart,24,8277,Manzana Honeycrisp Organica,60,5.34,320.4,Yucatan,Hipermercado
+306,166655,11/07/2024,14,Walmart,24,19057,Manzana Fuji Extra Grande Organica,80,7.28,582.4,Yucatan,Hipermercado
+306,166655,11/07/2024,14,Walmart,83,45007,Calabacin Organico,120,7.32,878.4,Cd. Mexico,Abarrotes
+306,166655,11/07/2024,14,Walmart,24,13176,Bolsa de Bananas Organicas,100,12.25,1225,Otros,Otros
+306,166655,11/07/2024,14,Walmart,123,27966,Frambuesas Organicas,100,14.25,1425,Guerrero,Abastos
+430,185289,14/07/2024,9,Walmart,24,28204,Manzana Fuji Organica,20,1.45,29,Cd. Mexico,Abarrotes
+430,185289,14/07/2024,9,Walmart,24,47209,Aguacate Hass Organico,100,8.95,895,Guerrero,Abastos
+430,185289,14/07/2024,9,Walmart,24,8277,Manzana Honeycrisp Organica,140,12.46,1744.4,Yucatan,Hipermercado
+430,185289,14/07/2024,9,Walmart,24,13176,Bolsa de Bananas Organicas,120,14.7,1764,Jalisco,Supermercado
+280,1059,17/07/2024,10,Walmart,24,21137,Fresas Organicas,40,4.98,199.2,Yucatan,Hipermercado
+280,1059,17/07/2024,10,Walmart,16,31717,Cilantro Organico,120,4.14,496.8,Jalisco,Supermercado
+280,1059,17/07/2024,10,Walmart,24,19057,Manzana Fuji Extra Grande Organica,80,7.28,582.4,Jalisco,Supermercado
+280,1059,17/07/2024,10,Walmart,24,47766,Aguacate Organico,100,8.75,875,Cd. Mexico,Abarrotes
+280,1059,17/07/2024,10,Walmart,83,8518,Cebolla Roja Organica,160,7.36,1177.6,Guerrero,Abastos
+280,1059,17/07/2024,10,Walmart,83,44359,Apio Organico en Ramillete PequeÃ±o,160,14.8,2368,Nuevo Leon,Online
+280,1059,17/07/2024,10,Walmart,24,13176,Bolsa de Bananas Organicas,140,17.15,2401,Otros,Otros
+303,198240,28/07/2024,21,Walmart,24,13176,Bolsa de Bananas Organicas,140,17.15,2401,Otros,Otros
+359,186816,01/08/2024,22,Walmart,123,21903,Espinacas Baby Organicas,40,2.98,119.2,Nuevo Leon,Online
+359,186816,01/08/2024,22,Walmart,24,26209,Limones,60,2.04,122.4,Otros,Otros
+359,186816,01/08/2024,22,Soriana,115,44632,Agua con Gas de Pomelo,60,2.85,171,Yucatan,Hipermercado
+359,186816,01/08/2024,22,Walmart,83,22935,Cebolla Amarilla Organica,100,4.4,440,Guerrero,Abastos
+359,186816,01/08/2024,22,Chedrahui,53,27086,Crema,100,5.1,510,Cd. Mexico,Abarrotes
+359,186816,01/08/2024,22,Walmart,83,46979,Esparragos,140,13.65,1911,Jalisco,Supermercado
+244,168855,05/08/2024,18,Walmart,83,22935,Cebolla Amarilla Organica,100,4.4,440,Yucatan,Hipermercado
+244,168855,05/08/2024,18,Walmart,24,47209,Aguacate Hass Organico,80,7.16,572.8,Otros,Otros
+244,168855,05/08/2024,18,Walmart,24,45066,Manzana Honeycrisp,100,7.75,775,Guerrero,Abastos
+370,49030,14/08/2024,10,Walmart,83,22935,Cebolla Amarilla Organica,100,4.4,440,Cd. Mexico,Abarrotes
+370,49030,14/08/2024,10,Chedrahui,84,27845,Leche Entera Organica,100,4.95,495,Yucatan,Hipermercado
+338,61454,16/08/2024,13,Walmart,24,26209,Limones,20,0.68,13.6,Otros,Otros
+338,61454,16/08/2024,13,Walmart,24,47626,Limon Grande,60,1.86,111.6,Guerrero,Abastos
+338,61454,16/08/2024,13,Walmart,24,24852,Banana,80,4.2,336,Yucatan,Hipermercado
+338,61454,16/08/2024,13,Walmart,24,45066,Manzana Honeycrisp,120,9.3,1116,Nuevo Leon,Online
+338,61454,16/08/2024,13,Walmart,24,16797,Fresas,120,12.3,1476,Jalisco,Supermercado
+426,147194,18/08/2024,15,Walmart,24,47209,Aguacate Hass Organico,20,1.79,35.8,Guerrero,Abastos
+426,147194,18/08/2024,15,Soriana,115,44632,Agua con Gas de Pomelo,60,2.85,171,Guerrero,Abastos
+426,147194,18/08/2024,15,Walmart,123,27966,Frambuesas Organicas,40,5.7,228,Cd. Mexico,Abarrotes
+426,147194,18/08/2024,15,Walmart,24,26209,Limones,100,3.4,340,Otros,Otros
+426,147194,18/08/2024,15,Walmart,24,16797,Fresas,60,6.15,369,Otros,Otros
+426,147194,18/08/2024,15,Walmart,83,8518,Cebolla Roja Organica,100,4.6,460,Nuevo Leon,Online
+426,147194,18/08/2024,15,Walmart,16,31717,Cilantro Organico,120,4.14,496.8,Jalisco,Supermercado
+426,147194,18/08/2024,15,Walmart,24,37646,Manzanas Gala Organicas,120,11.88,1425.6,Yucatan,Hipermercado
+426,147194,18/08/2024,15,Walmart,123,39275,Arandanos Organicos,120,16.5,1980,Nuevo Leon,Online
+405,172653,19/08/2024,13,Walmart,24,47209,Aguacate Hass Organico,80,7.16,572.8,Guerrero,Abastos
+405,172653,19/08/2024,13,Walmart,24,13176,Bolsa de Bananas Organicas,80,9.8,784,Yucatan,Hipermercado
+425,146671,20/08/2024,11,Chedrahui,53,49235,Crema Organica,140,8.05,1127,Yucatan,Hipermercado
+408,45631,20/08/2024,18,Walmart,24,24852,Banana,180,9.45,1701,Nuevo Leon,Online
+425,146671,20/08/2024,11,Walmart,24,45066,Manzana Honeycrisp,160,12.4,1984,Jalisco,Supermercado
+425,146671,20/08/2024,11,Walmart,24,16797,Fresas,140,14.35,2009,Nuevo Leon,Online
+425,146671,20/08/2024,11,Walmart,24,47209,Aguacate Hass Organico,160,14.32,2291.2,Cd. Mexico,Abarrotes
+364,120742,22/08/2024,11,Walmart,83,45007,Calabacin Organico,20,1.22,24.4,Cd. Mexico,Abarrotes
+258,184598,22/08/2024,9,Chedrahui,53,27086,Crema,40,2.04,81.6,Guerrero,Abastos
+258,184598,22/08/2024,9,Walmart,24,24852,Banana,80,4.2,336,Jalisco,Supermercado
+364,120742,22/08/2024,11,Walmart,123,21903,Espinacas Baby Organicas,80,5.96,476.8,Yucatan,Hipermercado
+258,184598,22/08/2024,9,Walmart,24,16797,Fresas,100,10.25,1025,Cd. Mexico,Abarrotes
+258,184598,22/08/2024,9,Walmart,24,45066,Manzana Honeycrisp,140,10.85,1519,Otros,Otros
+258,184598,22/08/2024,9,Walmart,123,39275,Arandanos Organicos,160,22,3520,Yucatan,Hipermercado
+393,111860,26/08/2024,17,Walmart,24,16797,Fresas,100,10.25,1025,Nuevo Leon,Online
+356,143707,27/08/2024,13,Walmart,24,13176,Bolsa de Bananas Organicas,140,17.15,2401,Jalisco,Supermercado
+354,25862,06/09/2024,10,Walmart,24,47626,Limon Grande,60,1.86,111.6,Guerrero,Abastos
+275,26030,11/09/2024,10,Walmart,24,24852,Banana,80,4.2,336,Yucatan,Hipermercado
+275,26030,11/09/2024,10,Walmart,24,8277,Manzana Honeycrisp Organica,120,10.68,1281.6,Guerrero,Abastos
+400,180454,17/09/2024,8,Walmart,83,22935,Cebolla Amarilla Organica,60,2.64,158.4,Nuevo Leon,Online
+400,180454,17/09/2024,8,Walmart,83,17794,Zanahorias,100,4.75,475,Jalisco,Supermercado
+400,180454,17/09/2024,8,Walmart,24,13176,Bolsa de Bananas Organicas,80,9.8,784,Otros,Otros
+400,180454,17/09/2024,8,Walmart,24,45066,Manzana Honeycrisp,140,10.85,1519,Guerrero,Abastos
+400,180454,17/09/2024,8,Walmart,83,44359,Apio Organico en Ramillete PequeÃ±o,140,12.95,1813,Cd. Mexico,Abarrotes
+265,139432,24/09/2024,9,Chedrahui,84,27845,Leche Entera Organica,40,1.98,79.2,Yucatan,Hipermercado
+265,139432,24/09/2024,9,Walmart,123,4920,Uvas Rojas sin Semillas,60,7.35,441,Nuevo Leon,Online
+265,139432,24/09/2024,9,Walmart,83,22935,Cebolla Amarilla Organica,140,6.16,862.4,Cd. Mexico,Abarrotes
+265,139432,24/09/2024,9,Walmart,16,31717,Cilantro Organico,160,5.52,883.2,Jalisco,Supermercado
+265,139432,24/09/2024,9,Walmart,24,21137,Fresas Organicas,100,12.45,1245,Otros,Otros
+265,139432,24/09/2024,9,Walmart,24,13176,Bolsa de Bananas Organicas,140,17.15,2401,Guerrero,Abastos
+390,166654,01/10/2024,12,Walmart,83,24964,Ajo Organico,40,1.96,78.4,Yucatan,Hipermercado
+390,166654,01/10/2024,12,Walmart,16,31717,Cilantro Organico,100,3.45,345,Cd. Mexico,Abarrotes
+390,166654,01/10/2024,12,Walmart,123,40706,Tomates Cherry Organicos,80,10.2,816,Guerrero,Abastos
+347,17155,02/10/2024,16,Walmart,24,47209,Aguacate Hass Organico,100,8.95,895,Cd. Mexico,Abarrotes
+347,17155,02/10/2024,16,Walmart,83,44359,Apio Organico en Ramillete PequeÃ±o,100,9.25,925,Jalisco,Supermercado
+347,17155,02/10/2024,16,Walmart,123,21903,Espinacas Baby Organicas,120,8.94,1072.8,Nuevo Leon,Online
+347,17155,02/10/2024,16,Walmart,123,27966,Frambuesas Organicas,140,19.95,2793,Otros,Otros
+379,6801,06/10/2024,23,Walmart,24,13176,Bolsa de Bananas Organicas,60,7.35,441,Guerrero,Abastos
+254,12711,07/10/2024,16,Walmart,24,13176,Bolsa de Bananas Organicas,80,9.8,784,Yucatan,Hipermercado
+254,12711,07/10/2024,16,Walmart,24,21137,Fresas Organicas,80,9.96,796.8,Guerrero,Abastos
+254,12711,07/10/2024,16,Walmart,123,40706,Tomates Cherry Organicos,100,12.75,1275,Otros,Otros
+254,12711,07/10/2024,16,Walmart,123,27966,Frambuesas Organicas,160,22.8,3648,Cd. Mexico,Abarrotes
+397,198708,16/10/2024,18,Walmart,24,47626,Limon Grande,80,2.48,198.4,Guerrero,Abastos
+431,137716,16/10/2024,11,Chedrahui,53,49235,Crema Organica,60,3.45,207,Nuevo Leon,Online
+397,198708,16/10/2024,18,Walmart,24,26209,Limones,100,3.4,340,Otros,Otros
+431,137716,16/10/2024,11,Walmart,83,46979,Esparragos,60,5.85,351,Guerrero,Abastos
+431,137716,16/10/2024,11,Walmart,24,28204,Manzana Fuji Organica,80,5.8,464,Cd. Mexico,Abarrotes
+431,137716,16/10/2024,11,Walmart,123,21903,Espinacas Baby Organicas,80,5.96,476.8,Yucatan,Hipermercado
+431,137716,16/10/2024,11,Walmart,24,13176,Bolsa de Bananas Organicas,120,14.7,1764,Otros,Otros
+431,137716,16/10/2024,11,Walmart,24,21137,Fresas Organicas,120,14.94,1792.8,Jalisco,Supermercado
+315,133849,26/10/2024,16,Walmart,24,47626,Limon Grande,200,6.2,1240,Yucatan,Hipermercado
+315,133849,26/10/2024,16,Walmart,24,21137,Fresas Organicas,100,12.45,1245,Nuevo Leon,Online
+315,133849,26/10/2024,16,Walmart,24,47766,Aguacate Organico,160,14,2240,Cd. Mexico,Abarrotes
+315,133849,26/10/2024,16,Walmart,123,39275,Arandanos Organicos,160,22,3520,Jalisco,Supermercado
+420,161762,27/10/2024,11,Walmart,83,24964,Ajo Organico,140,6.86,960.4,Jalisco,Supermercado
+420,161762,27/10/2024,11,Walmart,24,47209,Aguacate Hass Organico,120,10.74,1288.8,Cd. Mexico,Abarrotes
+304,55713,10/11/2024,13,Walmart,83,49683,Pepino Kirby,100,4.95,495,Nuevo Leon,Online
+350,96296,12/11/2024,14,Walmart,24,37646,Manzanas Gala Organicas,40,3.96,158.4,Nuevo Leon,Online
+350,96296,12/11/2024,14,Soriana,115,44632,Agua con Gas de Pomelo,80,3.8,304,Guerrero,Abastos
+350,96296,12/11/2024,14,Walmart,24,13176,Bolsa de Bananas Organicas,60,7.35,441,Yucatan,Hipermercado
+350,96296,12/11/2024,14,Walmart,24,47209,Aguacate Hass Organico,140,12.53,1754.2,Otros,Otros
+239,51178,16/11/2024,9,Walmart,24,47209,Aguacate Hass Organico,80,7.16,572.8,Cd. Mexico,Abarrotes
+239,51178,16/11/2024,9,Walmart,24,37646,Manzanas Gala Organicas,80,7.92,633.6,Jalisco,Supermercado
+239,51178,16/11/2024,9,Walmart,123,21903,Espinacas Baby Organicas,120,8.94,1072.8,Yucatan,Hipermercado
+321,125272,01/12/2024,12,Walmart,123,42265,Zanahorias Baby Organicas,80,5,400,Cd. Mexico,Abarrotes
+321,125272,01/12/2024,12,Walmart,24,45066,Manzana Honeycrisp,80,6.2,496,Yucatan,Hipermercado
+321,125272,01/12/2024,12,Chedrahui,84,27845,Leche Entera Organica,120,5.94,712.8,Jalisco,Supermercado
+321,125272,01/12/2024,12,Walmart,24,24852,Banana,140,7.35,1029,Otros,Otros
+321,125272,01/12/2024,12,Otros,67,30489,Hummus Original,100,12.75,1275,Guerrero,Abastos
+321,125272,01/12/2024,12,Walmart,24,21137,Fresas Organicas,120,14.94,1792.8,Nuevo Leon,Online
+339,34416,26/12/2024,16,Walmart,83,45007,Calabacin Organico,180,10.98,1976.4,Yucatan,Hipermercado
+339,34416,26/12/2024,16,Walmart,24,13176,Bolsa de Bananas Organicas,140,17.15,2401,Cd. Mexico,Abarrotes
+240,183623,27/12/2024,10,Walmart,123,39275,Arandanos Organicos,120,16.5,1980,Guerrero,Abastos
+630,51955,01/01/2025,16,Walmart,24,24852,Banana,40,2.1,84,Nuevo Leon,Online
+643,17076,01/01/2025,8,Walmart,123,39275,Arandanos Organicos,100,13.75,1375,Cd. Mexico,Abarrotes
+643,17076,01/01/2025,8,Walmart,24,21137,Fresas Organicas,120,14.94,1792.8,Yucatan,Hipermercado
+465,65540,02/01/2025,16,Walmart,83,27104,Coliflor Fresca,60,4.44,266.4,Jalisco,Supermercado
+536,138768,02/01/2025,9,Walmart,24,19057,Manzana Fuji Extra Grande Organica,80,7.28,582.4,Otros,Otros
+465,65540,02/01/2025,16,Walmart,24,28204,Manzana Fuji Organica,140,10.15,1421,Cd. Mexico,Abarrotes
+563,153069,04/01/2025,23,Walmart,24,21137,Fresas Organicas,140,17.43,2440.2,Nuevo Leon,Online
+670,196898,06/01/2025,13,Walmart,24,47626,Limon Grande,60,1.86,111.6,Nuevo Leon,Online
+670,196898,06/01/2025,13,Walmart,83,4605,Cebollas Amarillas,120,5.1,612,Otros,Otros
+644,151223,06/01/2025,16,Walmart,24,16797,Fresas,100,10.25,1025,Guerrero,Abastos
+670,196898,06/01/2025,13,Walmart,83,24964,Ajo Organico,160,7.84,1254.4,Guerrero,Abastos
+670,196898,06/01/2025,13,Walmart,24,24852,Banana,160,8.4,1344,Yucatan,Hipermercado
+560,67315,07/01/2025,17,Walmart,83,24964,Ajo Organico,40,1.96,78.4,Guerrero,Abastos
+584,78727,07/01/2025,19,Walmart,24,47209,Aguacate Hass Organico,80,7.16,572.8,Cd. Mexico,Abarrotes
+584,78727,07/01/2025,19,Walmart,24,24852,Banana,120,6.3,756,Jalisco,Supermercado
+560,67315,07/01/2025,17,Walmart,83,17794,Zanahorias,140,6.65,931,Otros,Otros
+560,67315,07/01/2025,17,Walmart,24,24852,Banana,160,8.4,1344,Yucatan,Hipermercado
+601,94143,07/01/2025,12,Walmart,123,42265,Zanahorias Baby Organicas,160,10,1600,Nuevo Leon,Online
+601,94143,07/01/2025,12,Walmart,123,39275,Arandanos Organicos,120,16.5,1980,Guerrero,Abastos
+601,94143,07/01/2025,12,Otros,67,30489,Hummus Original,140,17.85,2499,Jalisco,Supermercado
+601,94143,07/01/2025,12,Walmart,24,45066,Manzana Honeycrisp,180,13.95,2511,Otros,Otros
+699,23011,10/01/2025,20,Walmart,24,24852,Banana,80,4.2,336,Jalisco,Supermercado
+699,23011,10/01/2025,20,Walmart,83,45007,Calabacin Organico,180,10.98,1976.4,Nuevo Leon,Online
+462,103166,13/01/2025,18,Walmart,24,21137,Fresas Organicas,20,2.49,49.8,Jalisco,Supermercado
+462,103166,13/01/2025,18,Walmart,123,39275,Arandanos Organicos,120,16.5,1980,Cd. Mexico,Abarrotes
+462,103166,13/01/2025,18,Walmart,24,47766,Aguacate Organico,160,14,2240,Nuevo Leon,Online
+685,170906,16/01/2025,7,Walmart,83,45007,Calabacin Organico,60,3.66,219.6,Otros,Otros
+685,170906,16/01/2025,7,Walmart,123,27966,Frambuesas Organicas,60,8.55,513,Cd. Mexico,Abarrotes
+685,170906,16/01/2025,7,Walmart,83,22935,Cebolla Amarilla Organica,140,6.16,862.4,Jalisco,Supermercado
+685,170906,16/01/2025,7,Walmart,24,13176,Bolsa de Bananas Organicas,100,12.25,1225,Guerrero,Abastos
+685,170906,16/01/2025,7,Walmart,123,42265,Zanahorias Baby Organicas,140,8.75,1225,Nuevo Leon,Online
+685,170906,16/01/2025,7,Chedrahui,84,27845,Leche Entera Organica,160,7.92,1267.2,Nuevo Leon,Online
+685,170906,16/01/2025,7,Walmart,123,39275,Arandanos Organicos,100,13.75,1375,Yucatan,Hipermercado
+458,148347,17/01/2025,12,Walmart,83,22935,Cebolla Amarilla Organica,120,5.28,633.6,Guerrero,Abastos
+653,120475,17/01/2025,13,Walmart,24,16797,Fresas,160,16.4,2624,Cd. Mexico,Abarrotes
+480,56158,19/01/2025,18,Walmart,24,24852,Banana,80,4.2,336,Jalisco,Supermercado
+666,5152,20/01/2025,12,Walmart,24,13176,Bolsa de Bananas Organicas,100,12.25,1225,Otros,Otros
+475,190994,22/01/2025,0,Walmart,24,28204,Manzana Fuji Organica,120,8.7,1044,Nuevo Leon,Online
+475,190994,22/01/2025,0,Walmart,24,24852,Banana,160,8.4,1344,Otros,Otros
+617,189312,23/01/2025,12,Walmart,24,47209,Aguacate Hass Organico,120,10.74,1288.8,Guerrero,Abastos
+609,25883,24/01/2025,15,Walmart,83,22935,Cebolla Amarilla Organica,40,1.76,70.4,Guerrero,Abastos
+512,133066,24/01/2025,16,Walmart,24,13176,Bolsa de Bananas Organicas,40,4.9,196,Jalisco,Supermercado
+512,133066,24/01/2025,16,Walmart,24,21137,Fresas Organicas,160,19.92,3187.2,Cd. Mexico,Abarrotes
+602,147552,26/01/2025,23,Walmart,24,24852,Banana,20,1.05,21,Yucatan,Hipermercado
+602,147552,26/01/2025,23,Chedrahui,84,27845,Leche Entera Organica,100,4.95,495,Guerrero,Abastos
+602,147552,26/01/2025,23,Walmart,24,45066,Manzana Honeycrisp,80,6.2,496,Otros,Otros
+602,147552,26/01/2025,23,Walmart,24,47766,Aguacate Organico,120,10.5,1260,Cd. Mexico,Abarrotes
+602,147552,26/01/2025,23,Walmart,24,16797,Fresas,140,14.35,2009,Nuevo Leon,Online
+578,179433,28/01/2025,12,Walmart,83,44359,Apio Organico en Ramillete PequeÃ±o,40,3.7,148,Otros,Otros
+598,81979,28/01/2025,9,Walmart,83,49683,Pepino Kirby,60,2.97,178.2,Cd. Mexico,Abarrotes
+578,179433,28/01/2025,12,Walmart,24,26209,Limones,100,3.4,340,Cd. Mexico,Abarrotes
+578,179433,28/01/2025,12,Walmart,123,42265,Zanahorias Baby Organicas,80,5,400,Guerrero,Abastos
+598,81979,28/01/2025,9,Walmart,24,16797,Fresas,80,8.2,656,Yucatan,Hipermercado
+578,179433,28/01/2025,12,Walmart,123,27966,Frambuesas Organicas,120,17.1,2052,Yucatan,Hipermercado
+576,38664,30/01/2025,16,Walmart,123,39275,Arandanos Organicos,40,5.5,220,Jalisco,Supermercado
+558,5721,30/01/2025,11,Walmart,123,21616,Roda-cula Baby Organica,80,6.2,496,Nuevo Leon,Online
+594,84876,30/01/2025,22,Walmart,123,27966,Frambuesas Organicas,60,8.55,513,Cd. Mexico,Abarrotes
+594,84876,30/01/2025,22,Walmart,24,5876,Limon Organico,120,4.32,518.4,Yucatan,Hipermercado
+633,54591,30/01/2025,14,Walmart,24,47766,Aguacate Organico,80,7,560,Otros,Otros
+594,84876,30/01/2025,22,Walmart,24,13176,Bolsa de Bananas Organicas,80,9.8,784,Jalisco,Supermercado
+558,5721,30/01/2025,11,Walmart,123,21903,Espinacas Baby Organicas,160,11.92,1907.2,Otros,Otros
+549,120786,31/01/2025,21,Walmart,24,26209,Limones,160,5.44,870.4,Otros,Otros
+567,186231,31/01/2025,16,Walmart,123,40706,Tomates Cherry Organicos,160,20.4,3264,Yucatan,Hipermercado
+651,181671,03/02/2025,6,Chedrahui,84,27845,Leche Entera Organica,60,2.97,178.2,Guerrero,Abastos
+651,181671,03/02/2025,6,Walmart,24,24852,Banana,60,3.15,189,Yucatan,Hipermercado
+707,22757,03/02/2025,17,Walmart,24,24852,Banana,100,5.25,525,Nuevo Leon,Online
+651,181671,03/02/2025,6,Walmart,24,19057,Manzana Fuji Extra Grande Organica,80,7.28,582.4,Jalisco,Supermercado
+707,22757,03/02/2025,17,Walmart,24,47766,Aguacate Organico,100,8.75,875,Otros,Otros
+651,181671,03/02/2025,6,Walmart,83,44359,Apio Organico en Ramillete PequeÃ±o,120,11.1,1332,Cd. Mexico,Abarrotes
+651,181671,03/02/2025,6,Walmart,123,21903,Espinacas Baby Organicas,140,10.43,1460.2,Nuevo Leon,Online
+651,181671,03/02/2025,6,Walmart,123,40706,Tomates Cherry Organicos,140,17.85,2499,Otros,Otros
+441,132697,06/02/2025,13,Walmart,83,17794,Zanahorias,40,1.9,76,Cd. Mexico,Abarrotes
+589,160442,06/02/2025,15,Walmart,24,37646,Manzanas Gala Organicas,80,7.92,633.6,Yucatan,Hipermercado
+581,76141,07/02/2025,17,Walmart,24,13176,Bolsa de Bananas Organicas,20,2.45,49,Nuevo Leon,Online
+525,167046,07/02/2025,12,Walmart,123,40706,Tomates Cherry Organicos,40,5.1,204,Yucatan,Hipermercado
+525,167046,07/02/2025,12,Walmart,123,21616,Rada­cula Baby Organica,100,7.75,775,Cd. Mexico,Abarrotes
+521,203870,07/02/2025,9,Walmart,24,21137,Fresas Organicas,100,12.45,1245,Cd. Mexico,Abarrotes
+660,131699,10/02/2025,13,Walmart,24,24852,Banana,20,1.05,21,Yucatan,Hipermercado
+660,131699,10/02/2025,13,Chedrahui,53,49235,Crema Organica,80,4.6,368,Guerrero,Abastos
+464,162075,11/02/2025,12,Chedrahui,53,27086,Crema,100,5.1,510,Otros,Otros
+499,68120,11/02/2025,16,Walmart,83,22935,Cebolla Amarilla Organica,120,5.28,633.6,Guerrero,Abastos
+464,162075,11/02/2025,12,Walmart,24,26209,Limones,140,4.76,666.4,Guerrero,Abastos
+499,68120,11/02/2025,16,Walmart,83,24964,Ajo Organico,140,6.86,960.4,Otros,Otros
+464,162075,11/02/2025,12,Walmart,83,4605,Cebollas Amarillas,160,6.8,1088,Nuevo Leon,Online
+464,162075,11/02/2025,12,Walmart,24,24852,Banana,180,9.45,1701,Yucatan,Hipermercado
+622,95549,12/02/2025,16,Walmart,24,47209,Aguacate Hass Organico,60,5.37,322.2,Otros,Otros
+622,95549,12/02/2025,16,Walmart,24,13176,Bolsa de Bananas Organicas,60,7.35,441,Guerrero,Abastos
+622,95549,12/02/2025,16,Walmart,83,27104,Coliflor Fresca,80,5.92,473.6,Nuevo Leon,Online
+622,95549,12/02/2025,16,Walmart,83,30391,Pepino Organico,120,6.12,734.4,Jalisco,Supermercado
+455,140595,13/02/2025,15,Walmart,24,24852,Banana,20,1.05,21,Nuevo Leon,Online
+646,76803,13/02/2025,11,Walmart,24,47766,Aguacate Organico,40,3.5,140,Yucatan,Hipermercado
+681,114191,13/02/2025,18,Walmart,83,22935,Cebolla Amarilla Organica,120,5.28,633.6,Otros,Otros
+537,180135,14/02/2025,8,Walmart,24,19057,Manzana Fuji Extra Grande Organica,40,3.64,145.6,Jalisco,Supermercado
+657,193653,14/02/2025,10,Walmart,24,13176,Bolsa de Bananas Organicas,40,4.9,196,Jalisco,Supermercado
+537,180135,14/02/2025,8,Walmart,24,21137,Fresas Organicas,100,12.45,1245,Nuevo Leon,Online
+657,193653,14/02/2025,10,Walmart,24,47766,Aguacate Organico,120,10.5,1260,Nuevo Leon,Online
+657,193653,14/02/2025,10,Walmart,83,44359,Apio Organico en Ramillete PequeÃ±o,160,14.8,2368,Yucatan,Hipermercado
+657,193653,14/02/2025,10,Walmart,24,19057,Manzana Fuji Extra Grande Organica,180,16.38,2948.4,Cd. Mexico,Abarrotes
+570,16482,15/02/2025,14,Walmart,83,24964,Ajo Organico,80,3.92,313.6,Guerrero,Abastos
+570,16482,15/02/2025,14,Walmart,24,47209,Aguacate Hass Organico,100,8.95,895,Otros,Otros
+570,16482,15/02/2025,14,Walmart,83,8518,Cebolla Roja Organica,180,8.28,1490.4,Nuevo Leon,Online
+508,51003,17/02/2025,11,Walmart,123,21903,Espinacas Baby Organicas,60,4.47,268.2,Otros,Otros
+629,3351,17/02/2025,0,Walmart,83,17794,Zanahorias,80,3.8,304,Otros,Otros
+508,51003,17/02/2025,11,Walmart,24,13176,Bolsa de Bananas Organicas,160,22.05,3528,Guerrero,Abastos
+642,98841,20/02/2025,14,Walmart,24,47626,Limon Grande,120,3.72,446.4,Jalisco,Supermercado
+694,146044,21/02/2025,8,Walmart,123,4920,Uvas Rojas sin Semillas,60,7.35,441,Yucatan,Hipermercado
+592,105010,21/02/2025,8,Walmart,24,24852,Banana,120,6.3,756,Otros,Otros
+592,105010,21/02/2025,8,Walmart,24,16797,Fresas,100,10.25,1025,Nuevo Leon,Online
+694,146044,21/02/2025,8,Walmart,24,21137,Fresas Organicas,160,19.92,3187.2,Cd. Mexico,Abarrotes
+516,49838,22/02/2025,15,Walmart,24,24852,Banana,100,5.25,525,Nuevo Leon,Online
+491,186155,22/02/2025,12,Soriana,115,44632,Agua con Gas de Pomelo,140,6.65,931,Nuevo Leon,Online
+491,186155,22/02/2025,12,Walmart,24,13176,Bolsa de Bananas Organicas,100,12.25,1225,Jalisco,Supermercado
+636,63276,24/02/2025,17,Walmart,123,4920,Uvas Rojas sin Semillas,20,2.45,49,Cd. Mexico,Abarrotes
+522,35250,27/02/2025,15,Walmart,24,24852,Banana,60,3.15,189,Otros,Otros
+522,35250,27/02/2025,15,Walmart,83,41950,Racimo de Tomates Organicos,60,6.75,405,Nuevo Leon,Online
+522,35250,27/02/2025,15,Walmart,24,26209,Limones,120,4.08,489.6,Guerrero,Abastos
+522,35250,27/02/2025,15,Otros,67,30489,Hummus Original,80,10.2,816,Yucatan,Hipermercado
+522,35250,27/02/2025,15,Walmart,83,30391,Pepino Organico,180,9.18,1652.4,Jalisco,Supermercado
+546,141401,28/02/2025,11,Chedrahui,53,27086,Crema,160,8.16,1305.6,Guerrero,Abastos
+546,141401,28/02/2025,11,Soriana,115,44632,Agua con Gas de Pomelo,180,8.55,1539,Yucatan,Hipermercado
+679,102514,02/03/2025,14,Chedrahui,53,27086,Crema,100,5.1,510,Guerrero,Abastos
+679,102514,02/03/2025,14,Walmart,24,47209,Aguacate Hass Organico,160,14.32,2291.2,Yucatan,Hipermercado
+614,33769,03/03/2025,18,Walmart,24,13176,Bolsa de Bananas Organicas,80,9.8,784,Nuevo Leon,Online
+708,1873,04/03/2025,17,Walmart,24,47626,Limon Grande,80,2.48,198.4,Jalisco,Supermercado
+658,80981,05/03/2025,7,Walmart,24,47209,Aguacate Hass Organico,20,1.79,35.8,Otros,Otros
+658,80981,05/03/2025,7,Walmart,83,22935,Cebolla Amarilla Organica,160,7.04,1126.4,Jalisco,Supermercado
+658,80981,05/03/2025,7,Walmart,123,21903,Espinacas Baby Organicas,160,11.92,1907.2,Nuevo Leon,Online
+658,80981,05/03/2025,7,Walmart,83,46979,Esparragos,140,13.65,1911,Guerrero,Abastos
+585,137128,05/03/2025,18,Walmart,24,16797,Fresas,140,14.35,2009,Yucatan,Hipermercado
+597,43517,06/03/2025,19,Walmart,24,21137,Fresas Organicas,140,17.43,2440.2,Jalisco,Supermercado
+533,141438,11/03/2025,18,Walmart,24,8277,Manzana Honeycrisp Organica,60,5.34,320.4,Cd. Mexico,Abarrotes
+533,141438,11/03/2025,18,Walmart,123,21903,Espinacas Baby Organicas,80,5.96,476.8,Yucatan,Hipermercado
+533,141438,11/03/2025,18,Walmart,24,21137,Fresas Organicas,100,12.45,1245,Guerrero,Abastos
+533,141438,11/03/2025,18,Walmart,24,47766,Aguacate Organico,140,12.25,1715,Jalisco,Supermercado
+634,190667,12/03/2025,16,Walmart,24,16797,Fresas,80,8.2,656,Jalisco,Supermercado
+440,155234,12/03/2025,15,Walmart,123,21616,Roda-cula Baby Organica,100,7.75,775,Jalisco,Supermercado
+634,190667,12/03/2025,16,Walmart,24,28204,Manzana Fuji Organica,120,8.7,1044,Nuevo Leon,Online
+440,155234,12/03/2025,15,Walmart,24,21137,Fresas Organicas,140,17.43,2440.2,Nuevo Leon,Online
+561,153285,13/03/2025,16,Walmart,123,42265,Zanahorias Baby Organicas,120,7.5,900,Cd. Mexico,Abarrotes
+561,153285,13/03/2025,16,Walmart,24,24852,Banana,140,7.35,1029,Jalisco,Supermercado
+561,153285,13/03/2025,16,Walmart,24,47209,Aguacate Hass Organico,160,14.32,2291.2,Nuevo Leon,Online
+582,193223,14/03/2025,19,Walmart,24,47626,Limon Grande,40,1.24,49.6,Guerrero,Abastos
+486,146875,14/03/2025,16,Walmart,24,13176,Bolsa de Bananas Organicas,60,7.35,441,Otros,Otros
+582,193223,14/03/2025,19,Walmart,83,28985,Col Rizada Organica de Michigan,60,7.65,459,Cd. Mexico,Abarrotes
+582,193223,14/03/2025,19,Walmart,123,21903,Espinacas Baby Organicas,120,8.94,1072.8,Jalisco,Supermercado
+486,146875,14/03/2025,16,Walmart,83,22935,Cebolla Amarilla Organica,180,7.92,1425.6,Nuevo Leon,Online
+582,193223,14/03/2025,19,Walmart,123,39275,Arandanos Organicos,160,24.75,3960,Yucatan,Hipermercado
+639,194758,15/03/2025,12,Walmart,24,8277,Manzana Honeycrisp Organica,100,8.9,890,Yucatan,Hipermercado
+639,194758,15/03/2025,12,Walmart,24,13176,Bolsa de Bananas Organicas,100,12.25,1225,Guerrero,Abastos
+639,194758,15/03/2025,12,Walmart,83,41950,Racimo de Tomates Organicos,120,13.5,1620,Otros,Otros
+527,39332,18/03/2025,21,Chedrahui,53,49235,Crema Organica,60,3.45,207,Guerrero,Abastos
+527,39332,18/03/2025,21,Walmart,123,21903,Espinacas Baby Organicas,180,13.41,2413.8,Otros,Otros
+461,40496,19/03/2025,15,Walmart,24,47626,Limon Grande,80,2.48,198.4,Otros,Otros
+461,40496,19/03/2025,15,Walmart,24,26209,Limones,120,4.08,489.6,Yucatan,Hipermercado
+461,40496,19/03/2025,15,Walmart,24,37646,Manzanas Gala Organicas,80,7.92,633.6,Guerrero,Abastos
+461,40496,19/03/2025,15,Walmart,24,47209,Aguacate Hass Organico,100,8.95,895,Cd. Mexico,Abarrotes
+498,139602,20/03/2025,14,Walmart,24,16797,Fresas,140,14.35,2009,Yucatan,Hipermercado
+586,31030,21/03/2025,11,Walmart,24,24852,Banana,140,7.35,1029,Guerrero,Abastos
+432,198921,24/03/2025,10,Walmart,24,47626,Limon Grande,80,2.48,198.4,Cd. Mexico,Abarrotes
+432,198921,24/03/2025,10,Walmart,83,27104,Coliflor Fresca,100,7.4,740,Yucatan,Hipermercado
+432,198921,24/03/2025,10,Walmart,83,22935,Cebolla Amarilla Organica,180,7.92,1425.6,Guerrero,Abastos
+473,77529,25/03/2025,10,Walmart,24,24852,Banana,120,6.3,756,Guerrero,Abastos
+472,22824,28/03/2025,20,Chedrahui,84,27845,Leche Entera Organica,40,1.98,79.2,Yucatan,Hipermercado
+472,22824,28/03/2025,20,Walmart,123,27966,Frambuesas Organicas,160,22.8,3648,Cd. Mexico,Abarrotes
+514,18201,30/03/2025,10,Walmart,24,47209,Aguacate Hass Organico,140,12.53,1754.2,Yucatan,Hipermercado
+434,108854,31/03/2025,9,Walmart,123,42265,Zanahorias Baby Organicas,80,5,400,Yucatan,Hipermercado
+434,108854,31/03/2025,9,Walmart,24,45066,Manzana Honeycrisp,100,7.75,775,Cd. Mexico,Abarrotes
+434,108854,31/03/2025,9,Walmart,83,22935,Cebolla Amarilla Organica,160,7.04,1126.4,Jalisco,Supermercado
+616,35556,03/04/2025,17,Walmart,24,24852,Banana,80,4.2,336,Yucatan,Hipermercado
+678,198488,03/04/2025,12,Walmart,16,31717,Cilantro Organico,160,5.52,883.2,Cd. Mexico,Abarrotes
+678,198488,03/04/2025,12,Walmart,24,13176,Bolsa de Bananas Organicas,100,12.25,1225,Jalisco,Supermercado
+468,69420,04/04/2025,15,Walmart,123,21616,Roda-cula Baby Organica,80,6.2,496,Nuevo Leon,Online
+482,192144,07/04/2025,11,Walmart,123,39275,Arandanos Organicos,40,5.5,220,Yucatan,Hipermercado
+620,169324,07/04/2025,13,Walmart,24,47626,Limon Grande,140,4.34,607.6,Nuevo Leon,Online
+482,192144,07/04/2025,11,Walmart,24,13176,Bolsa de Bananas Organicas,80,9.8,784,Cd. Mexico,Abarrotes
+620,169324,07/04/2025,13,Walmart,24,47766,Aguacate Organico,120,10.5,1260,Jalisco,Supermercado
+645,146921,08/04/2025,8,Walmart,24,47766,Aguacate Organico,40,3.5,140,Cd. Mexico,Abarrotes
+645,146921,08/04/2025,8,Walmart,24,24852,Banana,120,6.3,756,Otros,Otros
+645,146921,08/04/2025,8,Otros,67,30489,Hummus Original,120,15.3,1836,Jalisco,Supermercado
+645,146921,08/04/2025,8,Walmart,24,21137,Fresas Organicas,140,17.43,2440.2,Nuevo Leon,Online
+494,90250,08/04/2025,17,Otros,67,30489,Hummus Original,160,20.4,3264,Cd. Mexico,Abarrotes
+695,158663,09/04/2025,8,Chedrahui,53,27086,Crema,100,5.1,510,Guerrero,Abastos
+695,158663,09/04/2025,8,Walmart,123,21903,Espinacas Baby Organicas,100,7.45,745,Nuevo Leon,Online
+695,158663,09/04/2025,8,Walmart,24,13176,Bolsa de Bananas Organicas,160,19.6,3136,Otros,Otros
+541,186224,11/04/2025,15,Walmart,24,16797,Fresas,60,6.15,369,Nuevo Leon,Online
+435,201679,11/04/2025,20,Walmart,24,13176,Bolsa de Bananas Organicas,80,9.8,784,Guerrero,Abastos
+687,45258,15/04/2025,13,Walmart,24,47209,Aguacate Hass Organico,40,3.58,143.2,Cd. Mexico,Abarrotes
+529,34037,15/04/2025,10,Walmart,24,24852,Banana,60,3.15,189,Nuevo Leon,Online
+687,45258,15/04/2025,13,Walmart,24,21137,Fresas Organicas,120,14.94,1792.8,Jalisco,Supermercado
+696,17551,18/04/2025,17,Walmart,24,47209,Aguacate Hass Organico,80,7.16,572.8,Cd. Mexico,Abarrotes
+696,17551,18/04/2025,17,Walmart,24,13176,Bolsa de Bananas Organicas,80,9.8,784,Guerrero,Abastos
+696,17551,18/04/2025,17,Walmart,83,17794,Zanahorias,140,6.65,931,Jalisco,Supermercado
+696,17551,18/04/2025,17,Walmart,24,21137,Fresas Organicas,100,12.45,1245,Yucatan,Hipermercado
+538,129024,23/04/2025,10,Soriana,115,44632,Agua con Gas de Pomelo,80,3.8,304,Cd. Mexico,Abarrotes
+538,129024,23/04/2025,10,Walmart,24,5876,Limon Organico,100,3.6,360,Yucatan,Hipermercado
+621,102288,24/04/2025,7,Walmart,123,39275,Arandanos Organicos,60,8.25,495,Cd. Mexico,Abarrotes
+553,180141,24/04/2025,10,Walmart,24,5876,Limon Organico,120,4.32,518.4,Yucatan,Hipermercado
+621,102288,24/04/2025,7,Walmart,24,16797,Fresas,160,16.4,2624,Yucatan,Hipermercado
+608,91030,26/04/2025,21,Walmart,24,24852,Banana,80,4.2,336,Yucatan,Hipermercado
+692,198151,27/04/2025,19,Chedrahui,53,49235,Crema Organica,160,9.2,1472,Jalisco,Supermercado
+519,100101,28/04/2025,14,Walmart,24,45066,Manzana Honeycrisp,60,4.65,279,Nuevo Leon,Online
+519,100101,28/04/2025,14,Walmart,24,21137,Fresas Organicas,100,12.45,1245,Otros,Otros
+706,59106,03/05/2025,18,Walmart,24,47209,Aguacate Hass Organico,60,5.37,322.2,Guerrero,Abastos
+503,201861,03/05/2025,15,Walmart,83,22935,Cebolla Amarilla Organica,100,4.4,440,Guerrero,Abastos
+503,201861,03/05/2025,15,Walmart,24,21137,Fresas Organicas,60,7.47,448.2,Otros,Otros
+706,59106,03/05/2025,18,Walmart,16,31717,Cilantro Organico,120,4.14,496.8,Yucatan,Hipermercado
+503,201861,03/05/2025,15,Walmart,24,47209,Aguacate Hass Organico,100,8.95,895,Nuevo Leon,Online
+500,26454,03/05/2025,8,Walmart,24,24852,Banana,140,7.35,1029,Jalisco,Supermercado
+500,26454,03/05/2025,8,Walmart,123,21903,Espinacas Baby Organicas,120,8.94,1072.8,Nuevo Leon,Online
+596,60562,06/05/2025,10,Walmart,24,21137,Fresas Organicas,80,9.96,796.8,Otros,Otros
+596,60562,06/05/2025,10,Walmart,123,40706,Tomates Cherry Organicos,80,10.2,816,Nuevo Leon,Online
+612,196148,08/05/2025,14,Walmart,24,26209,Limones,60,2.04,122.4,Otros,Otros
+439,56056,10/05/2025,10,Walmart,24,26209,Limones,100,3.4,340,Otros,Otros
+641,29916,13/05/2025,9,Walmart,83,28985,Col Rizada Organica de Michigan,40,5.1,204,Nuevo Leon,Online
+641,29916,13/05/2025,9,Walmart,24,26209,Limones,100,3.4,340,Cd. Mexico,Abarrotes
+574,113517,13/05/2025,10,Walmart,24,13176,Bolsa de Bananas Organicas,60,7.35,441,Guerrero,Abastos
+574,113517,13/05/2025,10,Walmart,24,19057,Manzana Fuji Extra Grande Organica,80,7.28,582.4,Otros,Otros
+641,29916,13/05/2025,9,Walmart,24,47626,Limon Grande,140,4.34,607.6,Yucatan,Hipermercado
+641,29916,13/05/2025,9,Walmart,83,22935,Cebolla Amarilla Organica,120,5.28,633.6,Otros,Otros
+641,29916,13/05/2025,9,Walmart,24,47209,Aguacate Hass Organico,120,10.74,1288.8,Guerrero,Abastos
+641,29916,13/05/2025,9,Walmart,123,21616,Roda-cula Baby Organica,140,10.85,1519,Nuevo Leon,Online
+615,36811,13/05/2025,8,Walmart,83,41950,Racimo de Tomates Organicos,160,18,2880,Cd. Mexico,Abarrotes
+641,29916,13/05/2025,9,Walmart,24,13176,Bolsa de Bananas Organicas,160,19.6,3136,Jalisco,Supermercado
+615,36811,13/05/2025,8,Walmart,24,21137,Fresas Organicas,160,19.92,3187.2,Jalisco,Supermercado
+539,189144,15/05/2025,11,Walmart,24,24852,Banana,40,2.1,84,Guerrero,Abastos
+539,189144,15/05/2025,11,Walmart,24,28204,Manzana Fuji Organica,100,7.25,725,Otros,Otros
+467,140348,18/05/2025,10,Otros,67,30489,Hummus Original,40,5.1,204,Guerrero,Abastos
+467,140348,18/05/2025,10,Walmart,83,49683,Pepino Kirby,100,4.95,495,Otros,Otros
+456,200032,21/05/2025,12,Walmart,24,47626,Limon Grande,60,1.86,111.6,Jalisco,Supermercado
+470,4793,27/05/2025,15,Soriana,115,44632,Agua con Gas de Pomelo,120,5.7,684,Jalisco,Supermercado
+542,12899,29/05/2025,15,Walmart,24,13176,Bolsa de Bananas Organicas,80,9.8,784,Jalisco,Supermercado
+669,96183,31/05/2025,12,Walmart,24,28204,Manzana Fuji Organica,100,7.25,725,Jalisco,Supermercado
+669,96183,31/05/2025,12,Chedrahui,53,27086,Crema,120,6.12,734.4,Cd. Mexico,Abarrotes
+669,96183,31/05/2025,12,Walmart,83,27104,Coliflor Fresca,140,10.36,1450.4,Nuevo Leon,Online
+448,111664,02/06/2025,19,Walmart,24,24852,Banana,80,4.2,336,Cd. Mexico,Abarrotes
+703,174262,07/06/2025,17,Walmart,24,24852,Banana,80,4.2,336,Jalisco,Supermercado
+447,173924,08/06/2025,14,Walmart,83,22935,Cebolla Amarilla Organica,80,3.52,281.6,Nuevo Leon,Online
+447,173924,08/06/2025,14,Walmart,83,24964,Ajo Organico,120,5.88,705.6,Jalisco,Supermercado
+520,165200,09/06/2025,8,Chedrahui,53,27086,Crema,80,4.08,326.4,Jalisco,Supermercado
+588,145181,09/06/2025,15,Walmart,24,24852,Banana,100,5.25,525,Jalisco,Supermercado
+588,145181,09/06/2025,15,Walmart,83,28985,Col Rizada Organica de Michigan,80,10.2,816,Otros,Otros
+588,145181,09/06/2025,15,Walmart,83,46979,Esparragos,100,9.75,975,Cd. Mexico,Abarrotes
+698,115540,09/06/2025,21,Walmart,24,13176,Bolsa de Bananas Organicas,100,12.25,1225,Otros,Otros
+588,145181,09/06/2025,15,Walmart,123,21903,Espinacas Baby Organicas,140,10.43,1460.2,Nuevo Leon,Online
+648,138800,10/06/2025,0,Walmart,24,37646,Manzanas Gala Organicas,40,3.96,158.4,Guerrero,Abastos
+648,138800,10/06/2025,0,Walmart,24,21137,Fresas Organicas,60,7.47,448.2,Nuevo Leon,Online
+648,138800,10/06/2025,0,Walmart,24,47209,Aguacate Hass Organico,140,12.53,1754.2,Otros,Otros
+637,1177,17/06/2025,17,Walmart,24,21137,Fresas Organicas,60,7.47,448.2,Yucatan,Hipermercado
+676,165814,18/06/2025,17,Walmart,83,49683,Pepino Kirby,100,4.95,495,Nuevo Leon,Online
+700,185577,19/06/2025,12,Walmart,123,21903,Espinacas Baby Organicas,80,5.96,476.8,Cd. Mexico,Abarrotes
+631,184099,19/06/2025,9,Walmart,16,31717,Cilantro Organico,120,4.14,496.8,Yucatan,Hipermercado
+631,184099,19/06/2025,9,Walmart,123,42265,Zanahorias Baby Organicas,160,10,1600,Cd. Mexico,Abarrotes
+631,184099,19/06/2025,9,Walmart,24,21137,Fresas Organicas,140,17.43,2440.2,Jalisco,Supermercado
+655,85219,21/06/2025,20,Walmart,24,24852,Banana,20,1.05,21,Otros,Otros
+655,85219,21/06/2025,20,Walmart,24,5876,Limon Organico,100,3.6,360,Otros,Otros
+655,85219,21/06/2025,20,Walmart,24,26209,Limones,120,4.08,489.6,Guerrero,Abastos
+655,85219,21/06/2025,20,Walmart,24,47209,Aguacate Hass Organico,80,7.16,572.8,Yucatan,Hipermercado
+655,85219,21/06/2025,20,Walmart,83,30391,Pepino Organico,120,6.12,734.4,Nuevo Leon,Online
+655,85219,21/06/2025,20,Walmart,24,21137,Fresas Organicas,100,12.45,1245,Jalisco,Supermercado
+655,85219,21/06/2025,20,Walmart,123,27966,Frambuesas Organicas,100,14.25,1425,Cd. Mexico,Abarrotes
+655,85219,21/06/2025,20,Walmart,83,28985,Col Rizada Organica de Michigan,140,17.85,2499,Guerrero,Abastos
+628,204912,22/06/2025,7,Chedrahui,84,27845,Leche Entera Organica,100,4.95,495,Yucatan,Hipermercado
+628,204912,22/06/2025,7,Walmart,24,24852,Banana,120,6.3,756,Guerrero,Abastos
+661,185594,23/06/2025,7,Walmart,24,45066,Manzana Honeycrisp,40,3.1,124,Yucatan,Hipermercado
+661,185594,23/06/2025,7,Walmart,24,13176,Bolsa de Bananas Organicas,40,4.9,196,Cd. Mexico,Abarrotes
+661,185594,23/06/2025,7,Walmart,24,5876,Limon Organico,80,2.88,230.4,Jalisco,Supermercado
+661,185594,23/06/2025,7,Walmart,123,42265,Zanahorias Baby Organicas,80,5,400,Nuevo Leon,Online
+661,185594,23/06/2025,7,Walmart,83,8518,Cebolla Roja Organica,120,5.52,662.4,Otros,Otros
+661,185594,23/06/2025,7,Otros,67,30489,Hummus Original,100,12.75,1275,Guerrero,Abastos
+487,83068,25/06/2025,10,Walmart,24,37646,Manzanas Gala Organicas,80,7.92,633.6,Yucatan,Hipermercado
+487,83068,25/06/2025,10,Walmart,24,13176,Bolsa de Bananas Organicas,120,14.7,1764,Jalisco,Supermercado
+487,83068,25/06/2025,10,Walmart,123,27966,Frambuesas Organicas,120,17.1,2052,Guerrero,Abastos
+487,83068,25/06/2025,10,Walmart,24,47209,Aguacate Hass Organico,180,16.11,2899.8,Cd. Mexico,Abarrotes
+632,84859,27/06/2025,8,Chedrahui,84,27845,Leche Entera Organica,100,4.95,495,Guerrero,Abastos
+688,72738,27/06/2025,14,Walmart,24,16797,Fresas,80,8.2,656,Yucatan,Hipermercado
+688,72738,27/06/2025,14,Walmart,24,45066,Manzana Honeycrisp,160,12.4,1984,Guerrero,Abastos
+562,199989,28/06/2025,10,Walmart,24,24852,Banana,120,6.3,756,Otros,Otros
+562,199989,28/06/2025,10,Walmart,24,28204,Manzana Fuji Organica,140,10.15,1421,Yucatan,Hipermercado
+562,199989,28/06/2025,10,Otros,67,30489,Hummus Original,120,15.3,1836,Guerrero,Abastos
+590,198502,29/06/2025,18,Walmart,83,22935,Cebolla Amarilla Organica,60,2.64,158.4,Guerrero,Abastos
+504,2201,29/06/2025,17,Walmart,83,22935,Cebolla Amarilla Organica,100,4.4,440,Jalisco,Supermercado
+488,127848,03/07/2025,19,Walmart,24,26209,Limones,60,2.04,122.4,Jalisco,Supermercado
+488,127848,03/07/2025,19,Walmart,24,5876,Limon Organico,100,3.6,360,Nuevo Leon,Online
+488,127848,03/07/2025,19,Walmart,24,45066,Manzana Honeycrisp,120,9.3,1116,Otros,Otros
+626,10747,05/07/2025,13,Walmart,83,30391,Pepino Organico,100,5.1,510,Otros,Otros
+626,10747,05/07/2025,13,Walmart,24,16797,Fresas,100,10.25,1025,Nuevo Leon,Online
+626,10747,05/07/2025,13,Walmart,24,13176,Bolsa de Bananas Organicas,120,14.7,1764,Guerrero,Abastos
+459,18550,06/07/2025,8,Walmart,83,49683,Pepino Kirby,60,2.97,178.2,Otros,Otros
+459,18550,06/07/2025,8,Walmart,24,47626,Limon Grande,120,3.72,446.4,Nuevo Leon,Online
+459,18550,06/07/2025,8,Walmart,24,16797,Fresas,120,12.3,1476,Jalisco,Supermercado
+510,203673,09/07/2025,10,Walmart,24,13176,Bolsa de Bananas Organicas,140,17.15,2401,Nuevo Leon,Online
+583,71244,12/07/2025,15,Chedrahui,53,27086,Crema,20,1.02,20.4,Nuevo Leon,Online
+583,71244,12/07/2025,15,Walmart,83,4605,Cebollas Amarillas,100,4.25,425,Otros,Otros
+557,153133,14/07/2025,20,Walmart,24,5876,Limon Organico,100,3.6,360,Yucatan,Hipermercado
+557,153133,14/07/2025,20,Walmart,24,13176,Bolsa de Bananas Organicas,100,12.25,1225,Jalisco,Supermercado
+557,153133,14/07/2025,20,Walmart,24,21137,Fresas Organicas,120,14.94,1792.8,Guerrero,Abastos
+557,153133,14/07/2025,20,Otros,67,30489,Hummus Original,140,17.85,2499,Cd. Mexico,Abarrotes
+559,22322,17/07/2025,4,Walmart,24,37646,Manzanas Gala Organicas,80,7.92,633.6,Jalisco,Supermercado
+559,22322,17/07/2025,4,Walmart,83,27104,Coliflor Fresca,120,8.88,1065.6,Cd. Mexico,Abarrotes
+493,197703,18/07/2025,19,Walmart,24,19057,Manzana Fuji Extra Grande Organica,20,1.82,36.4,Otros,Otros
+451,167271,18/07/2025,16,Walmart,123,4920,Uvas Rojas sin Semillas,20,2.45,49,Otros,Otros
+493,197703,18/07/2025,19,Walmart,123,40706,Tomates Cherry Organicos,20,2.55,51,Nuevo Leon,Online
+451,167271,18/07/2025,16,Walmart,24,26209,Limones,40,1.36,54.4,Nuevo Leon,Online
+451,167271,18/07/2025,16,Walmart,24,24852,Banana,80,4.2,336,Yucatan,Hipermercado
+451,167271,18/07/2025,16,Walmart,24,28204,Manzana Fuji Organica,80,5.8,464,Guerrero,Abastos
+493,197703,18/07/2025,19,Walmart,123,27966,Frambuesas Organicas,60,8.55,513,Guerrero,Abastos
+451,167271,18/07/2025,16,Walmart,16,31717,Cilantro Organico,140,4.83,676.2,Jalisco,Supermercado
+493,197703,18/07/2025,19,Walmart,123,21903,Espinacas Baby Organicas,100,7.45,745,Jalisco,Supermercado
+493,197703,18/07/2025,19,Walmart,24,24852,Banana,120,6.3,756,Cd. Mexico,Abarrotes
+493,197703,18/07/2025,19,Walmart,24,21137,Fresas Organicas,100,12.45,1245,Yucatan,Hipermercado
+551,91201,24/07/2025,10,Walmart,24,8277,Manzana Honeycrisp Organica,20,1.78,35.6,Cd. Mexico,Abarrotes
+551,91201,24/07/2025,10,Walmart,24,24852,Banana,80,4.2,336,Nuevo Leon,Online
+551,91201,24/07/2025,10,Otros,67,30489,Hummus Original,80,10.2,816,Jalisco,Supermercado
+466,101150,26/07/2025,10,Walmart,24,47766,Aguacate Organico,160,14,2240,Yucatan,Hipermercado
+691,32597,31/07/2025,10,Walmart,123,21903,Espinacas Baby Organicas,80,5.96,476.8,Otros,Otros
+691,32597,31/07/2025,10,Walmart,123,4920,Uvas Rojas sin Semillas,80,9.8,784,Nuevo Leon,Online
+659,177324,04/08/2025,10,Chedrahui,84,27845,Leche Entera Organica,120,5.94,712.8,Cd. Mexico,Abarrotes
+701,195186,08/08/2025,6,Walmart,123,21903,Espinacas Baby Organicas,60,4.47,268.2,Guerrero,Abastos
+433,76234,08/08/2025,12,Chedrahui,84,27845,Leche Entera Organica,100,4.95,495,Otros,Otros
+701,195186,08/08/2025,6,Walmart,83,30391,Pepino Organico,100,5.1,510,Nuevo Leon,Online
+701,195186,08/08/2025,6,Walmart,24,24852,Banana,100,5.25,525,Yucatan,Hipermercado
+701,195186,08/08/2025,6,Walmart,24,47766,Aguacate Organico,80,7,560,Otros,Otros
+433,76234,08/08/2025,12,Walmart,24,19057,Manzana Fuji Extra Grande Organica,120,10.92,1310.4,Nuevo Leon,Online
+672,30564,26/08/2025,22,Walmart,24,24852,Banana,80,4.2,336,Jalisco,Supermercado
+515,153416,28/08/2025,12,Walmart,24,13176,Bolsa de Bananas Organicas,100,12.25,1225,Otros,Otros
+515,153416,28/08/2025,12,Walmart,123,40706,Tomates Cherry Organicos,100,12.75,1275,Guerrero,Abastos
+690,154391,03/09/2025,15,Walmart,24,21137,Fresas Organicas,20,2.49,49.8,Cd. Mexico,Abarrotes
+690,154391,03/09/2025,15,Walmart,83,46979,Esparragos,80,7.8,624,Guerrero,Abastos
+690,154391,03/09/2025,15,Walmart,123,42265,Zanahorias Baby Organicas,100,6.25,625,Nuevo Leon,Online
+690,154391,03/09/2025,15,Walmart,24,13176,Bolsa de Bananas Organicas,100,12.25,1225,Jalisco,Supermercado
+690,154391,03/09/2025,15,Walmart,83,30391,Pepino Organico,180,9.18,1652.4,Yucatan,Hipermercado
+690,154391,03/09/2025,15,Walmart,24,47766,Aguacate Organico,140,12.25,1715,Otros,Otros
+484,187599,04/09/2025,14,Walmart,24,16797,Fresas,60,6.15,369,Guerrero,Abastos
+454,11335,04/09/2025,17,Walmart,83,46979,Esparragos,80,7.8,624,Otros,Otros
+454,11335,04/09/2025,17,Walmart,123,42265,Zanahorias Baby Organicas,120,7.5,900,Yucatan,Hipermercado
+454,11335,04/09/2025,17,Walmart,24,19057,Manzana Fuji Extra Grande Organica,100,9.1,910,Guerrero,Abastos
+454,11335,04/09/2025,17,Walmart,24,47766,Aguacate Organico,160,19.25,3080,Cd. Mexico,Abarrotes
+442,185583,05/09/2025,20,Walmart,24,47766,Aguacate Organico,80,7,560,Yucatan,Hipermercado
+442,185583,05/09/2025,20,Chedrahui,84,27845,Leche Entera Organica,140,6.93,970.2,Guerrero,Abastos
+638,167982,10/09/2025,14,Walmart,83,24964,Ajo Organico,80,3.92,313.6,Cd. Mexico,Abarrotes
+638,167982,10/09/2025,14,Walmart,83,45007,Calabacin Organico,120,7.32,878.4,Nuevo Leon,Online
+638,167982,10/09/2025,14,Walmart,83,8518,Cebolla Roja Organica,140,6.44,901.6,Jalisco,Supermercado
+638,167982,10/09/2025,14,Walmart,24,21137,Fresas Organicas,100,12.45,1245,Guerrero,Abastos
+638,167982,10/09/2025,14,Walmart,123,42265,Zanahorias Baby Organicas,180,11.25,2025,Otros,Otros
+573,42147,11/09/2025,14,Walmart,123,21903,Espinacas Baby Organicas,80,5.96,476.8,Yucatan,Hipermercado
+573,42147,11/09/2025,14,Walmart,24,13176,Bolsa de Bananas Organicas,80,9.8,784,Jalisco,Supermercado
+573,42147,11/09/2025,14,Walmart,83,46979,Esparragos,160,15.6,2496,Cd. Mexico,Abarrotes
+627,135886,14/09/2025,18,Walmart,24,28204,Manzana Fuji Organica,60,4.35,261,Jalisco,Supermercado
+627,135886,14/09/2025,18,Walmart,24,13176,Bolsa de Bananas Organicas,140,17.15,2401,Cd. Mexico,Abarrotes
+623,37804,20/09/2025,12,Walmart,123,40706,Tomates Cherry Organicos,140,17.85,2499,Cd. Mexico,Abarrotes
+603,95063,23/09/2025,12,Walmart,123,42265,Zanahorias Baby Organicas,80,5,400,Guerrero,Abastos
+603,95063,23/09/2025,12,Walmart,24,47209,Aguacate Hass Organico,80,7.16,572.8,Otros,Otros
+603,95063,23/09/2025,12,Walmart,24,13176,Bolsa de Bananas Organicas,80,9.8,784,Jalisco,Supermercado
+603,95063,23/09/2025,12,Walmart,123,21903,Espinacas Baby Organicas,140,10.43,1460.2,Cd. Mexico,Abarrotes
+603,95063,23/09/2025,12,Walmart,123,39275,Arandanos Organicos,140,19.25,2695,Yucatan,Hipermercado
+457,105560,28/09/2025,16,Walmart,24,26209,Limones,100,3.4,340,Yucatan,Hipermercado
+457,105560,28/09/2025,16,Walmart,123,27966,Frambuesas Organicas,140,19.95,2793,Cd. Mexico,Abarrotes
+544,173861,29/09/2025,20,Walmart,24,24852,Banana,80,4.2,336,Guerrero,Abastos
+544,173861,29/09/2025,20,Walmart,83,17794,Zanahorias,100,4.75,475,Nuevo Leon,Online
+544,173861,29/09/2025,20,Walmart,24,19057,Manzana Fuji Extra Grande Organica,100,9.1,910,Yucatan,Hipermercado
+544,173861,29/09/2025,20,Walmart,83,24964,Ajo Organico,140,6.86,960.4,Otros,Otros
+544,173861,29/09/2025,20,Walmart,123,21903,Espinacas Baby Organicas,120,8.94,1072.8,Cd. Mexico,Abarrotes
+544,173861,29/09/2025,20,Walmart,83,45007,Calabacin Organico,160,9.76,1561.6,Jalisco,Supermercado
+544,173861,29/09/2025,20,Walmart,123,40706,Tomates Cherry Organicos,140,17.85,2499,Cd. Mexico,Abarrotes
+575,202833,12/10/2025,9,Walmart,24,47766,Aguacate Organico,120,10.5,1260,Nuevo Leon,Online
+431,137716,16/10/2025,11,Walmart,83,22935,Cebolla Amarilla Organica,60,2.64,158.4,Nuevo Leon,Online
+431,137716,16/10/2025,11,Walmart,24,47626,Limon Grande,120,3.72,446.4,Otros,Otros
+431,137716,16/10/2025,11,Walmart,83,44359,Apio Organico en Ramillete PequeÃ±o,100,9.25,925,Jalisco,Supermercado
+704,61148,22/10/2025,9,Walmart,24,24852,Banana,100,5.25,525,Cd. Mexico,Abarrotes
+501,86142,31/10/2025,12,Walmart,24,13176,Bolsa de Bananas Organicas,40,4.9,196,Cd. Mexico,Abarrotes
+501,86142,31/10/2025,12,Walmart,123,27966,Frambuesas Organicas,140,19.95,2793,Yucatan,Hipermercado
+518,20663,05/11/2025,20,Walmart,24,47766,Aguacate Organico,20,1.75,35,Jalisco,Supermercado
+518,20663,05/11/2025,20,Walmart,83,45007,Calabacin Organico,80,4.88,390.4,Cd. Mexico,Abarrotes
+518,20663,05/11/2025,20,Walmart,83,17794,Zanahorias,160,7.6,1216,Guerrero,Abastos
+518,20663,05/11/2025,20,Walmart,24,13176,Bolsa de Bananas Organicas,100,12.25,1225,Yucatan,Hipermercado
+606,42671,07/11/2025,20,Walmart,83,22935,Cebolla Amarilla Organica,40,1.76,70.4,Cd. Mexico,Abarrotes
+606,42671,07/11/2025,20,Walmart,24,13176,Bolsa de Bananas Organicas,60,7.35,441,Nuevo Leon,Online
+606,42671,07/11/2025,20,Walmart,24,8277,Manzana Honeycrisp Organica,100,8.9,890,Jalisco,Supermercado
+619,164110,09/11/2025,16,Walmart,83,41950,Racimo de Tomates Organicos,160,20.25,3240,Otros,Otros
+506,8941,12/11/2025,8,Walmart,24,24852,Banana,20,1.05,21,Cd. Mexico,Abarrotes
+506,8941,12/11/2025,8,Walmart,24,47626,Limon Grande,80,2.48,198.4,Yucatan,Hipermercado
+490,32953,13/11/2025,15,Walmart,123,21903,Espinacas Baby Organicas,40,2.98,119.2,Yucatan,Hipermercado
+490,32953,13/11/2025,15,Walmart,24,47766,Aguacate Organico,60,5.25,315,Guerrero,Abastos
+490,32953,13/11/2025,15,Walmart,24,16797,Fresas,80,8.2,656,Cd. Mexico,Abarrotes
+490,32953,13/11/2025,15,Soriana,115,44632,Agua con Gas de Pomelo,120,5.7,684,Otros,Otros
+446,22274,24/11/2025,13,Walmart,24,26209,Limones,100,3.4,340,Otros,Otros
+650,38617,25/11/2025,12,Walmart,24,24852,Banana,100,5.25,525,Jalisco,Supermercado
+555,40590,05/12/2025,7,Walmart,24,47626,Limon Grande,120,3.72,446.4,Nuevo Leon,Online
+555,40590,05/12/2025,7,Walmart,24,47766,Aguacate Organico,100,8.75,875,Guerrero,Abastos
+555,40590,05/12/2025,7,Walmart,83,46979,Esparragos,100,9.75,975,Otros,Otros
+595,32240,07/12/2025,6,Walmart,24,26209,Limones,120,4.08,489.6,Guerrero,Abastos
+625,39460,18/12/2025,10,Walmart,24,13176,Bolsa de Bananas Organicas,20,2.45,49,Yucatan,Hipermercado
+674,163819,18/12/2025,11,Chedrahui,53,27086,Crema,60,3.06,183.6,Guerrero,Abastos
+674,163819,18/12/2025,11,Soriana,115,44632,Agua con Gas de Pomelo,120,5.7,684,Yucatan,Hipermercado
+674,163819,18/12/2025,11,Walmart,24,24852,Banana,180,9.45,1701,Cd. Mexico,Abarrotes
+674,163819,18/12/2025,11,Otros,67,30489,Hummus Original,120,15.3,1836,Otros,Otros
+565,45892,22/12/2025,10,Walmart,83,24964,Ajo Organico,80,3.92,313.6,Cd. Mexico,Abarrotes
+654,54729,22/12/2025,13,Walmart,24,24852,Banana,100,5.25,525,Yucatan,Hipermercado
+565,45892,22/12/2025,10,Walmart,24,24852,Banana,160,8.4,1344,Jalisco,Supermercado
