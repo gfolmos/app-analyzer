@@ -30,8 +30,9 @@ with st.expander("Explicación del Programa"):
     st.write("""
             Practicamente esta herramienta es un analista eficaz, solo realiza la pregunta como si la ralizaras al analista y ya no tendras que esperar dias para recibir la informes. \n
             Como realizar la pregunta simple (ejemplos): \n
-            'Muestra el total de ventas', 'Muestra las ventas por region', 'Muestra numero de Total_Transacciones por genero' (fijarse en el nombre de la columna). \n
-            Nota Final: \n
+            'Muestra la suma de ventas', 'Muestra las ventas por region', 'Muestra numero de Total_Transacciones por genero' (fijarse en el nombre de la columna). \n
+            Nota: Si manda un error, no reconoce alguna palabre, recostruye la pregunta. \n
+             Nota Final: \n
             Al utilizar la IA no se recomendaría analizar los documentos de la empresa por propia política de la empresa o por seguridad.
             Para poder utilizar una herramienta como esta corriendo con un agente de IA por internet, se puede utilizar localmente (on-premise)
             en una computadora moderna para que la información no salga por internet y este segura la información. \n
